@@ -1,0 +1,22 @@
+/*!
+ Project   : Atento WordPress Theme
+ Purpose   : Widget and Customizer Area CSS
+ Author    : precisethemes
+ Theme URI : https://precisethemes.com/
+*/
+
+
+#accordion-section-custom_theme_upsell {
+    display: block !important;
+    height: 48px !important;
+}
+
+#accordion-section-custom_theme_upsell h3 {
+	font-size: 12px;
+}
+
+.customize-control-kirki-radio-image label{
+    display: initial!important;
+    width: calc(33.333333% - 8px);
+    margin-right: 8px;
+}

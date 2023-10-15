@@ -1,0 +1,150 @@
+# Translation of Plugins - Shield Security &#8211; Scanners, Security Hardening, Brute Force Protection &amp; Firewall - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Shield Security &#8211; Scanners, Security Hardening, Brute Force Protection &amp; Firewall - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-27 19:41:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Shield Security &#8211; Scanners, Security Hardening, Brute Force Protection &amp; Firewall - Stable (latest release)\n"
+
+#: src/lib/src/Tables/DataTables/Build/Scans/BaseForScan.php:52
+#: src/lib/src/Tables/DataTables/Build/Traffic/ForTraffic.php:76
+msgid "Type"
+msgstr "Typ"
+
+#: src/lib/src/Tables/DataTables/Build/Scans/BaseForScan.php:95
+#: src/lib/src/Tables/DataTables/Build/Scans/ForMalware.php:34
+msgid "Line Numbers"
+msgstr "Zeilennummern"
+
+#: src/lib/src/Modules/HackGuard/Render/ScanResults/SectionBase.php:48
+msgid "Update Available"
+msgstr "Aktualisierung verfügbar"
+
+#: src/lib/src/Modules/HackGuard/Render/ScanResults/SectionBase.php:41
+msgid "File Integrity"
+msgstr "Datei-Integrität"
+
+#: src/lib/src/Modules/HackGuard/Render/ScanResults/SectionBase.php:37
+msgid "Author"
+msgstr "Autor"
+
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadRawTableData.php:301
+msgid "Size"
+msgstr "Größe"
+
+#: src/lib/src/Modules/HackGuard/Render/ScanResults/SectionBase.php:40
+msgid "Installation Directory"
+msgstr "Installationsverzeichnis"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:342
+msgid "WordPress Installation Directory"
+msgstr "WordPress-Installationsverzeichnis"
+
+#: src/lib/src/Modules/HackGuard/Render/ScanResults/SectionBase.php:50
+msgid "estimated"
+msgstr "geschätzt"
+
+#: src/lib/src/Modules/Plugin/Lib/ImportExport/Import.php:72
+msgid "import file"
+msgstr "Datei importieren"
+
+#: src/lib/src/Modules/IPs/Lib/IpAnalyse/BuildDisplay.php:146
+msgid "See Details"
+msgstr "Siehe Details"
+
+#: src/lib/src/Modules/Insights/Lib/SideMenuBuilder.php:302
+#: src/lib/src/Modules/Insights/Lib/SideMenuBuilder.php:482
+msgid "Config"
+msgstr "Konfiguration"
+
+#: src/lib/src/Modules/Insights/Lib/SideMenuBuilder.php:151
+msgid "Glossary"
+msgstr "Glossar"
+
+#: src/lib/src/Modules/Plugin/Lib/ImportExport/Import.php:51
+msgid "Import file was empty"
+msgstr "Die importierte Datei war leer"
+
+#: src/lib/src/Modules/Integrations/UI.php:21
+msgid "Registration"
+msgstr "Registrierung"
+
+#: src/lib/src/Modules/Plugin/AjaxHandler.php:223
+msgid "Switching-off conflicting options appears to have failed."
+msgstr "Das Ausschalten widersprüchlicher Optionen scheint fehlgeschlagen zu sein."
+
+#: src/lib/src/Modules/Plugin/AdminNotices.php:139
+msgid "Click here to automatically turn off those options."
+msgstr "Hier klicken, um diese Optionen automatisch auszuschalten."
+
+#: src/lib/src/Modules/Base/Strings.php:40
+msgid "Watch Help Video"
+msgstr "Hilfe-Video ansehen"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Shield Security"
+msgstr "Shield Security"
+
+#. Description of the plugin
+msgid "Powerful, Easy-To-Use #1 Rated WordPress Security System"
+msgstr "Mächtiges, einfach zu bedienendes, #1 bewertetes WordPress-Sicherheitssystem"
+
+#: src/lib/src/Modules/HackGuard/Scan/Utilities/WpvAddPluginRows.php:122
+#: src/lib/src/Modules/HackGuard/Strings.php:393
+#: src/lib/src/Modules/IPs/ModCon.php:148
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Render/RenderLoginIntentPage.php:81
+msgid "More Info"
+msgstr "Weitere Informationen"
+
+#: src/lib/src/Modules/Base/Strings.php:58
+msgid "Blog"
+msgstr "Blog"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:226
+#: src/lib/src/Modules/Autoupdates/Strings.php:19
+#: src/lib/src/Modules/Base/Strings.php:46
+#: src/lib/src/Modules/CommentsFilter/Strings.php:63
+#: src/lib/src/Modules/Firewall/Strings.php:14
+#: src/lib/src/Modules/HackGuard/Strings.php:114
+#: src/lib/src/Modules/Headers/Strings.php:14
+#: src/lib/src/Modules/IPs/Strings.php:169
+#: src/lib/src/Modules/Lockdown/Strings.php:34
+#: src/lib/src/Modules/LoginGuard/Strings.php:73
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:38
+#: src/lib/src/Modules/Sessions/Strings.php:47
+#: src/lib/src/Modules/Traffic/Strings.php:29
+#: src/lib/src/Modules/UserManagement/Strings.php:104
+msgid "On"
+msgstr "Ein "
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:226
+#: src/lib/src/Modules/Autoupdates/Strings.php:19
+#: src/lib/src/Modules/Base/Strings.php:47
+#: src/lib/src/Modules/CommentsFilter/Strings.php:63
+#: src/lib/src/Modules/Firewall/Strings.php:14
+#: src/lib/src/Modules/HackGuard/Strings.php:114
+#: src/lib/src/Modules/Headers/Strings.php:14
+#: src/lib/src/Modules/IPs/Strings.php:169
+#: src/lib/src/Modules/Lockdown/Strings.php:34
+#: src/lib/src/Modules/LoginGuard/Strings.php:73
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:38
+#: src/lib/src/Modules/Sessions/Strings.php:47
+#: src/lib/src/Modules/Traffic/Strings.php:29
+#: src/lib/src/Modules/UserManagement/Strings.php:104
+msgid "Off"
+msgstr "Aus"
+
+#: src/lib/src/Modules/Base/ModCon.php:1042
+#: src/lib/src/Modules/Plugin/Strings.php:550
+msgid "Support Forums"
+msgstr "Support-Forum"
+
+#: src/lib/src/Modules/LoginGuard/Lib/Rename/RenameLogin.php:92
+msgid "Permalinks"
+msgstr "Permalinks"

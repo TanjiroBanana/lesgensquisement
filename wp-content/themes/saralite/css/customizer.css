@@ -1,0 +1,46 @@
+/*--------------------------------------------------------------
+# Customize
+--------------------------------------------------------------*/
+#accordion-section-sara_pro h3.accordion-section-title{
+    background: #ee9982;
+    color: #FFFFFF;
+}
+.customizer-mc-btn {
+    display: block;
+    padding: 10px;
+    background: #ee9982;
+    color: #ffffff;
+    border-radius: 3px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+.customizer-mc-btn:hover {
+    color: #ffffff;
+}
+.customizer-mc-list {
+    padding: 30px 20px;
+    border-radius: 3px;
+    background: #fff;
+}
+.customizer-mc-ul {
+    margin-bottom: 20px;
+}
+.customizer-mc-ul li {
+    margin-bottom: 15px;
+    padding-left: 38px;
+    position: relative;
+}
+.customizer-mc-ul li:before {
+    content: "+";
+    background: #d6d6d6;
+    border-radius: 2px;
+    margin-right: 10px;
+    padding: 2px 10px;
+    font-weight: bold;
+    font-size: 80%;
+    color: #ffffff;
+    position: absolute;
+    left: 0px;
+    text-align: center;
+}

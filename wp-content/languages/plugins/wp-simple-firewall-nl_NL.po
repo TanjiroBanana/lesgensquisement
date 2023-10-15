@@ -1,0 +1,1643 @@
+# Translation of Plugins - Shield Security &#8211; Smart Bot Blocking &amp; Intrusion Prevention Security - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Shield Security &#8211; Smart Bot Blocking &amp; Intrusion Prevention Security - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-29 11:51:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Shield Security &#8211; Smart Bot Blocking &amp; Intrusion Prevention Security - Stable (latest release)\n"
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/WpPluginsUpdates.php:28
+msgid "All available plugin updates have been applied."
+msgstr "Alle beschikbare updates voor plugins zijn toegepast."
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/WpPluginsInactive.php:24
+msgid "Inactive Plugins"
+msgstr "Inactieve plugins"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:55
+msgid "Import From Another Site"
+msgstr "Van een andere site importeren"
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/SystemSslCertificate.php:61
+msgid "SSL Certificate"
+msgstr "SSL certificaat"
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/WpDbPassword.php:21
+msgid "WP Database password is very strong."
+msgstr "Wachtwoord WP database is erg sterk."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:122
+msgid "Longitude"
+msgstr "Lengtegraad"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:121
+msgid "Latitude"
+msgstr "Breedtegraad"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:117
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:94
+msgid "Coordinates"
+msgstr "Coördinaten"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:93
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:92
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:113
+msgid "Country"
+msgstr "Land"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:98
+msgid "Extras"
+msgstr "Extra's"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:99
+msgid "IP Whois"
+msgstr "IP Whois"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/Container.php:39
+msgid "General Info"
+msgstr "Algemene informatie"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:23
+msgid "Good"
+msgstr "Goed"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:63
+#: src/lib/src/Tables/DataTables/Build/ForActivityLog.php:131
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:154
+msgid "User"
+msgstr "Gebruiker"
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/WpThemesInactive.php:21
+msgid "Inactive Themes"
+msgstr "Inactieve thema's"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/Container.php:42
+msgid "Recent Traffic"
+msgstr "Recent bezoekersverkeer"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Docs/DocsChangelog.php:26
+#: src/lib/src/ActionRouter/Actions/Render/Components/Docs/DocsEvents.php:43
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:19
+#: src/lib/src/ActionRouter/Actions/Render/MainWP/ExtPage/BaseSubPage.php:62
+msgid "Version"
+msgstr "Versie"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageDocs.php:32
+msgid "Updates and Changes"
+msgstr "Updates en wijzigingen"
+
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:152
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageDocs.php:35
+#: src/lib/src/Modules/Plugin/Lib/Merlin/Steps/FreeTrial.php:10
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:249
+msgid "Free Trial"
+msgstr "Gratis proefversie"
+
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/SystemSslCertificate.php:65
+msgid "SSL Certificate remains valid for at least the next 2 weeks."
+msgstr "SSL certificaat is in ieder geval komende 2 weken nog geldig."
+
+#: src/lib/src/Modules/HackGuard/Strings.php:321
+msgid "Web.Config is only available for Windows/IIS."
+msgstr "Web.Config is alleen beschikbaar voor Windows/IIS."
+
+#: src/lib/src/Modules/Lockdown/Strings.php:168
+msgid "Files Deleted"
+msgstr "Bestanden verwijderd"
+
+#: src/lib/src/Modules/IPs/Strings.php:469
+msgid "Many bots pretend to be a Google Bot."
+msgstr "Veel bots doen zich voor als Google Bot."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:40
+msgid "Unblock My IP"
+msgstr "Mijn IP-adres deblokkeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:37
+msgid "It looks like you've been blocked and have clicked to have your IP address removed from the blocklist."
+msgstr "Het lijkt erop dat je bent geblokkeerd en hebt geklikt om je IP-adres van de blokkeerlijst af te krijgen."
+
+#: src/lib/src/Modules/IPs/Lib/AutoUnblock/AutoUnblockMagicLink.php:37
+msgid "Automatic IP Unblock Request"
+msgstr "Automatisch deblokkeerverzoek IP-adres"
+
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Block/Components/MagicLink.php:38
+msgid "Clicking the button will send you an email letting you unblock your IP address."
+msgstr "Als je op de knop klikt, ontvang je een e-mail om je IP-adres te deblokkeren."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:55
+msgid "Change Detected"
+msgstr "Wijziging gedetecteerd"
+
+#: src/lib/src/Modules/License/WpCli/License.php:83
+msgid "No active license present."
+msgstr "Geen actieve licentie aanwezig."
+
+#: src/lib/src/Modules/License/WpCli/License.php:82
+msgid "Active license found."
+msgstr "Actieve licentie aangetroffen."
+
+#: src/lib/src/Modules/License/WpCli/License.php:73
+msgid "License removed successfully."
+msgstr "Verwijderen licentie geslaagd."
+
+#: src/lib/src/Modules/License/WpCli/License.php:66
+msgid "No license to remove."
+msgstr "Geen licentie om te verwijderen."
+
+#: src/lib/src/Modules/Base/WpCli/ModuleStandard.php:142
+msgid "Current value: %s"
+msgstr "Huidige waarde: %s"
+
+#: src/lib/src/Modules/Base/WpCli/ModuleStandard.php:139
+msgid "\"Y\" = Turned On; \"N\" = Turned Off"
+msgstr "\"Y\" = Aangezet; \"N\" = Uitgezet"
+
+#: src/lib/src/Modules/Base/WpCli/ModuleStandard.php:129
+msgid "No value set."
+msgstr "Geen waarde ingesteld."
+
+#: src/lib/src/Modules/Plugin/WpCli/Export.php:72
+msgid "Couldn't create the export file."
+msgstr "Kon te exporteren bestand niet aanmaken."
+
+#: src/lib/src/Modules/Plugin/Strings.php:336
+msgid "Allow WP-CLI"
+msgstr "WP-CLI toestaan"
+
+#: src/lib/src/Modules/IPs/WpCli/Remove.php:40
+msgid "IP address couldn't be removed. (It may not be on this list)"
+msgstr "IP adres kon niet worden verwijderd. (Staat misschien niet in de ze lijst)"
+
+#: src/lib/src/Modules/IPs/WpCli/Remove.php:39
+msgid "IP address removed successfully."
+msgstr "Verwijderen IP adres geslaagd"
+
+#: src/lib/src/Modules/IPs/WpCli/Add.php:43
+msgid "IP address added successfully."
+msgstr "Toevoegen IP adres geslaagd."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/MfaLoginCode.php:32
+msgid "Verification Code"
+msgstr "Verificatiecode"
+
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/U2F.php:41
+msgid "Please now save your profile settings."
+msgstr "Sla nu je profielinstellingen op."
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:150
+msgid "Hardware 2FA"
+msgstr "Hardware 2FA"
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:149
+msgid "Hardware 2-Factor Authentication"
+msgstr "Hardware 2-Factor Authenticatie"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:49
+msgid "File Modified Timestamp"
+msgstr "Bestand gewijzigd tijdstempel"
+
+#: src/lib/src/Modules/License/WpCli/License.php:99
+msgid "Valid license found and installed."
+msgstr "Geldige licentie gevonden en geïnstalleerd."
+
+#: src/lib/src/Modules/License/WpCli/License.php:70
+msgid "Are you sure you want to remove the ShieldPRO license?"
+msgstr "Weet je zeker dat je de ShieldPRO licentie wilt verwijderen?"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ReportsCollatorForInfo.php:16
+msgid "Reporting Period"
+msgstr "Rapportageperiode"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ReportsCollatorForInfo.php:15
+msgid "Information is for the following time period."
+msgstr "informatie heeft betrekking op de volgende periode."
+
+#: src/lib/src/Modules/Plugin/Strings.php:450
+msgid "How Often Informational Reports Will Be Sent To You"
+msgstr "Hoe vaak informatieve rapportages aan je worden gestuurd"
+
+#: src/lib/src/ActionRouter/Actions/ScansFileLockerAction.php:36
+#: src/lib/src/ActionRouter/Actions/ScansFileLockerAction.php:39
+msgid "Requested action failed."
+msgstr "Aangevraagde actie mislukt."
+
+#: src/lib/src/ActionRouter/Actions/ScansFileLockerAction.php:35
+msgid "Requested action completed successfully."
+msgstr "Aangevraagde actie succesvol afgerond."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:57
+msgid "Current File Content"
+msgstr "Huidige bestandsinhoud"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:56
+msgid "Original File Content"
+msgstr "Originele bestandsinhoud"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:48
+msgid "Locked"
+msgstr "Vergrendeld"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:47
+msgid "Modified File"
+msgstr "Gewijzigd bestand"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:44
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:42
+msgid "Accept Changes"
+msgstr "Wijzigingen accepteren"
+
+#: src/lib/src/Modules/HackGuard/Lib/FileLocker/Ops/Diff.php:23
+msgid "File is empty or could not be read."
+msgstr "Bestand is leeg of kon niet worden gelezen."
+
+#: src/lib/src/Modules/HackGuard/Lib/FileLocker/Ops/Diff.php:18
+msgid "File is missing or could not be read."
+msgstr "Bestand ontbreekt of kon niet worden gelezen."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:40
+msgid "There have been no changes to the selected file."
+msgstr "Er zijn geen wijzigingen aangebracht in het geselecteerde bestand."
+
+#: src/lib/src/Modules/HackGuard/Strings.php:211
+msgid "Keep this feature turned on, at all times."
+msgstr "Laat deze functie altijd aan staan."
+
+#: src/lib/src/Modules/Plugin/Strings.php:296
+msgid "What Is My IP Address?"
+msgstr "Wat is mijn IP-adres?"
+
+#: src/lib/src/Modules/Plugin/Strings.php:209
+msgid "hCaptcha Keys"
+msgstr "hCaptcha sleutels"
+
+#: src/lib/src/Modules/Plugin/Strings.php:208
+msgid "Google reCAPTCHA Keys"
+msgstr "Google reCAPTCHA sleutels"
+
+#: src/lib/src/Modules/Traffic/Strings.php:148
+msgid "Use a smaller interval to reduce the risk of blocking legitimate visitors."
+msgstr "Gebruik een kleiner interval om het risico te verkleinen dat legitieme bezoekers worden geblokkeerd."
+
+#: src/lib/src/Modules/Traffic/Strings.php:134
+msgid "Use a larger maximum request limit to reduce the risk of blocking legitimate visitors."
+msgstr "Gebruik een grotere maximale verzoeklimiet om het risico te verkleinen dat legitieme bezoekers worden geblokkeerd."
+
+#: src/lib/src/Modules/CommentsFilter/Strings.php:52
+#: src/lib/src/Modules/LoginGuard/Strings.php:287
+#: src/lib/src/Modules/Plugin/Strings.php:200
+#: src/lib/src/Modules/Plugin/Strings.php:201
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: src/lib/src/Modules/Plugin/Strings.php:184
+msgid "Update reporting email address"
+msgstr "Update e-mailadres voor rapportages"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:41
+msgid "Restore File"
+msgstr "Bestand terugzetten"
+
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/Yubikey.php:36
+msgid "Registered Yubikey devices"
+msgstr "Geregistreerde Yubikey apparaten"
+
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/Yubikey.php:37
+msgid "There are no registered Yubikey devices on this profile."
+msgstr "Dit profiel bevat geen geregistreerde Yubikey apparaten."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/Traffic.php:65
+#: src/lib/src/Modules/Data/DB/ReqLogs/GetRequestMeta.php:49
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:135
+msgid "Path"
+msgstr "Pad"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:359
+#: src/lib/src/Modules/IPs/Strings.php:330
+msgid "All characters will be treated as case-insensitive."
+msgstr "Alle tekens worden hoofdletterongevoelig behandeld."
+
+#: src/lib/src/Modules/HackGuard/Strings.php:358
+#: src/lib/src/Modules/IPs/Strings.php:329
+msgid "Take a new line for each whitelisted path."
+msgstr "Gebruik een nieuwe regel voor elk toegestaan pad.  "
+
+#: src/lib/src/Modules/Headers/Strings.php:101
+msgid "Manual CSP Rules"
+msgstr "Handmatige CSP regels"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansResults.php:116
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansRun.php:65
+#: src/lib/src/Modules/Plugin/Lib/SelectSearchData.php:268
+msgid "View Scan Results"
+msgstr "Scanresultaten bekijken"
+
+#: src/lib/src/Modules/SecurityAdmin/Lib/SecurityAdmin/Ops/RemoveSecAdmin.php:54
+msgid "Confirmation link"
+msgstr "Bevestigingslink"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:357
+#: src/lib/src/Modules/IPs/Strings.php:328
+msgid "This is an advanced option and should be used with great care."
+msgstr "Dit is een geavanceerde optie die met de grootste zorg moet worden gebruikt."
+
+#: src/lib/src/Modules/Headers/Strings.php:100
+msgid "Manual Rules"
+msgstr "Handmatige regels"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ChartsSummary.php:81
+msgid "days"
+msgstr "dagen"
+
+#. Author URI of the plugin
+msgid "https://shsec.io/bv"
+msgstr "https://shsec.io/bv"
+
+#. Plugin URI of the plugin
+msgid "https://shsec.io/2f"
+msgstr "https://shsec.io/2f"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ChartsSummary.php:70
+msgid "Now"
+msgstr "Nu"
+
+#: src/lib/src/Modules/Plugin/Lib/PluginNotices/SystemOutOfDate.php:29
+msgid "more info"
+msgstr "meer informatie"
+
+#: src/lib/src/Modules/Plugin/Strings.php:609
+msgid "High"
+msgstr "Hoog"
+
+#: src/lib/src/Modules/Plugin/Strings.php:607
+msgid "Low"
+msgstr "Laag"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:239
+msgid "Scan Every Hour"
+msgstr "Om het uur scannen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:237
+msgid "More Scans"
+msgstr "Meer scans"
+
+#: src/lib/src/Scans/Afs/Utilities/RepairItem.php:124
+msgid "Theme version doesn't appear to exist."
+msgstr "Thema versie lijkt niet te bestaan."
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:244
+msgid "WooCommerce Support"
+msgstr "WooCommerce ondersteuning"
+
+#: src/lib/src/Modules/HackGuard/Scan/Utilities/PtgAddReinstallLinks.php:55
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/lib/src/Modules/HackGuard/Scan/Utilities/PtgAddReinstallLinks.php:54
+msgid "Activate Only"
+msgstr "Enkel activeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageAdminNotes.php:32
+msgid "New Note"
+msgstr "Nieuwe notitie"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageAdminNotes.php:31
+msgid "Add Note"
+msgstr "Notitie toevoegen"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:69
+msgid "Block IP"
+msgstr "IP blokkeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageAdminNotes.php:33
+msgid "Enter new note here"
+msgstr "Voer hier een nieuwe notitie in"
+
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:47
+msgid "Page"
+msgstr "Pagina"
+
+#: src/lib/src/Tables/DataTables/Build/Scans/BaseForScan.php:43
+#: src/lib/src/Tables/DataTables/Build/Scans/BaseForScan.php:57
+msgid "File"
+msgstr "Bestand"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:39
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:58
+#: src/lib/src/Tables/Render/WpListTable/Sessions.php:50
+msgid "Details"
+msgstr "Details"
+
+#: src/lib/src/Tables/DataTables/Build/ForActivityLog.php:169
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:181
+#: src/lib/src/Tables/Render/WpListTable/AdminNotes.php:28
+msgid "Date"
+msgstr "Datum"
+
+#: src/lib/src/Tables/DataTables/Build/ForIpRules.php:93
+msgid "Last Access"
+msgstr "Laatst benaderd"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ChartsSummary.php:55
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:149
+msgid "Offenses"
+msgstr "Schendingen"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:65
+#: src/lib/src/Modules/Plugin/Strings.php:612
+msgid "Last Offense"
+msgstr "Laatste schending"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:321
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:318
+msgid "Agree To Privacy Policy"
+msgstr "Met privacybeleid instemmen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:316
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:164
+msgid "Debug"
+msgstr "Foutopsporing"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:282
+msgid "Select"
+msgstr "Selecteren"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:264
+msgid "Since"
+msgstr "Sinds"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:263
+msgid "Until"
+msgstr "Tot"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:352
+msgid "Keyless Activation"
+msgstr "Activering zonder sleutel"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansProgress.php:13
+msgid "Current Scan"
+msgstr "Huidige scan"
+
+#: src/lib/src/ActionRouter/Actions/ScansCheck.php:20
+#: src/lib/src/Modules/HackGuard/Rest/Request/Base.php:29
+msgid "No scan running."
+msgstr "Geen scan actief."
+
+#: src/lib/src/ActionRouter/Actions/SecurityAdminLogin.php:30
+msgid "Reloading"
+msgstr "Herladen"
+
+#: src/lib/src/ActionRouter/Actions/ScanResultsTableAction.php:103
+msgid "An error occurred."
+msgstr "Er is een fout opgetreden."
+
+#: src/lib/src/Modules/UserManagement/Lib/Suspend/Suspended.php:19
+msgid "Sorry, this account is suspended."
+msgstr "Sorry, dit account is opgeschort."
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteDelete.php:27
+msgid "Note couldn't be deleted"
+msgstr "Notitie kon niet worden verwijderd"
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteDelete.php:26
+msgid "Note deleted"
+msgstr "Notitie verwijderd"
+
+#: src/lib/src/Modules/Plugin/Strings.php:603
+msgid "Twice"
+msgstr "Twee keer"
+
+#: src/lib/src/Modules/Plugin/Strings.php:602
+msgid "Once"
+msgstr "Eenmalig"
+
+#: src/lib/src/Modules/Plugin/Strings.php:601
+msgid "Dark Theme"
+msgstr "Donker thema"
+
+#: src/lib/src/Modules/Plugin/Strings.php:536
+msgid "Immediate Block"
+msgstr "Onmiddellijke blokkade"
+
+#: src/lib/src/Modules/Plugin/Strings.php:532
+msgid "Month"
+msgstr "Maand"
+
+#: src/lib/src/Modules/Plugin/Strings.php:521
+msgid "Same Origin"
+msgstr "Zelfde oorsprong"
+
+#: src/lib/src/Modules/Plugin/Strings.php:522
+msgid "Origin"
+msgstr "Oorsprong"
+
+#: src/lib/src/Modules/Plugin/Strings.php:502
+msgid "Invisible"
+msgstr "Onzichtbaar"
+
+#: src/lib/src/Modules/Plugin/Strings.php:503
+msgid "Default Style"
+msgstr "Standaard stijl"
+
+#: src/lib/src/Modules/Plugin/Strings.php:506
+msgid "Die"
+msgstr "Stop"
+
+#: src/lib/src/Modules/Plugin/Strings.php:507
+msgid "Scan Disabled"
+msgstr "Scan uitgeschakeld"
+
+#: src/lib/src/Modules/Plugin/Strings.php:500
+msgid "Move To Trash"
+msgstr "Verplaats naar prullenbak"
+
+#: src/lib/src/Modules/Plugin/Strings.php:499
+msgid "Move To SPAM"
+msgstr "Verplaatst naar SPAM"
+
+#: src/lib/src/Modules/Plugin/Strings.php:497
+msgid "As Soon As Possible"
+msgstr "Zo snel mogelijk"
+
+#: src/lib/src/Modules/Plugin/Strings.php:496
+msgid "Let The Plugin Decide"
+msgstr "Laat plugin beslissen"
+
+#: src/lib/src/Modules/Plugin/Strings.php:479
+msgid "Publish"
+msgstr "Publiceren"
+
+#: src/lib/src/Modules/Plugin/Strings.php:474
+msgid "Update"
+msgstr "Bijwerken"
+
+#: src/lib/src/Modules/Plugin/Strings.php:473
+msgid "Install"
+msgstr "Installeren"
+
+#: src/lib/src/Modules/CommentsFilter/Scan/Scanner.php:147
+msgid "Trash"
+msgstr "Prullenbak"
+
+#: src/lib/src/Modules/Traffic/Strings.php:144
+#: src/lib/src/Modules/Traffic/Strings.php:146
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: src/lib/src/Modules/Traffic/Strings.php:49
+msgid "Use this feature with care."
+msgstr "Gebruik deze functie met beleid."
+
+#: src/lib/src/Modules/License/Strings.php:31
+msgid "License Deactivated"
+msgstr "Licentie gedeactiveerd"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:193
+msgid "Post Published"
+msgstr "Bericht gepubliceerd"
+
+#: src/lib/src/Modules/Plugin/Lib/AssetsCustomizer.php:218
+msgid "Please select an action to perform."
+msgstr "Selecteer een actie om uit te voeren."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ItemAnalysis/Info.php:195
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/BuildSearchPanesData.php:53
+#: src/lib/src/Scans/Afs/ResultItem.php:42
+msgid "Missing"
+msgstr "Ontbrekend"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ItemAnalysis/Info.php:198
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:53
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadFileScanResultsTableData.php:255
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadFileScanResultsTableData.php:286
+#: src/lib/src/Scans/Afs/ResultItem.php:45
+msgid "Modified"
+msgstr "Gewijzigd"
+
+#: src/lib/src/Modules/Plugin/Strings.php:531
+msgid "Week"
+msgstr "Week"
+
+#: src/lib/src/Modules/Plugin/Strings.php:530
+#: src/lib/src/Tables/DataTables/Build/ForActivityLog.php:154
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:166
+msgid "Day"
+msgstr "Dag"
+
+#: src/lib/src/Modules/Plugin/Strings.php:529
+msgid "Hour"
+msgstr "Uur"
+
+#: src/lib/src/Modules/Plugin/Strings.php:528
+msgid "Minute"
+msgstr "Minuut"
+
+#: src/lib/src/Modules/Plugin/Strings.php:489
+msgid "Logged-In Users"
+msgstr "Ingelogde gebruikers"
+
+#: src/lib/src/Modules/Base/Options/SectionNotices.php:75
+#: src/lib/src/Modules/Plugin/Lib/Merlin/Steps/LoginProtection.php:12
+#: src/lib/src/Modules/Plugin/Strings.php:484
+msgid "Login"
+msgstr "Inloggen"
+
+#: src/lib/src/Modules/Plugin/Strings.php:480
+msgid "Author Name"
+msgstr "Auteursnaam"
+
+#: src/lib/src/Modules/Plugin/Strings.php:478
+msgid "Create/Edit"
+msgstr "Aanmaken/bewerken"
+
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:168
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:176
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:185
+msgid "expires"
+msgstr "verloopt"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:241
+msgid "User Deleted"
+msgstr "Gebruiker verwijderd"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:234
+msgid "User Registered"
+msgstr "Gebruiker geregistreerd"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:284
+msgid "Apply Filters"
+msgstr "Filters toepassen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:283
+msgid "Clear Filters"
+msgstr "Filters wissen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:347
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:243
+msgid "Check License"
+msgstr "Licentie controleren"
+
+#: src/lib/src/Modules/Traffic/Strings.php:143
+msgid "Interval is measured in seconds."
+msgstr "Interval wordt uitgedrukt in seconden."
+
+#: src/lib/src/Modules/UserManagement/Lib/Suspend/PasswordExpiry.php:19
+msgid "Sorry, this account is suspended because the password has expired."
+msgstr "Dit account is opgeschort omdat het wachtwoord is verlopen."
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:68
+#: src/lib/src/Modules/UserManagement/Lib/Suspend/Idle.php:24
+#: src/lib/src/Modules/UserManagement/Lib/Suspend/PasswordExpiry.php:23
+msgid "Reset"
+msgstr "Herstellen"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:179
+msgid "Post Updated"
+msgstr "Bericht bijgewerkt"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:165
+msgid "Post Trashed"
+msgstr "Bericht naar prullenbak verplaatst"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:159
+msgid "Post Deleted"
+msgstr "Bericht verwijderd"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:105
+msgid "WP Core Updated"
+msgstr "WP core bijgewerkt"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:87
+msgid "Theme File Edited"
+msgstr "Themabestand bewerkt"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:69
+msgid "Theme Activated"
+msgstr "Thema geactiveerd"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:63
+msgid "Plugin File Edited"
+msgstr "Pluginbestand bewerkt"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:45
+msgid "Plugin Deactivated"
+msgstr "Plugin gedeactiveerd"
+
+#: src/lib/src/Modules/AuditTrail/Strings.php:27
+msgid "Plugin Activated"
+msgstr "Plugin geactiveerd"
+
+#: src/lib/src/Modules/Plugin/Strings.php:133
+msgid "Session Terminated"
+msgstr "Sessie beëindigd"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:64
+#: src/lib/src/Modules/Plugin/Strings.php:127
+msgid "Session Started"
+msgstr "Sessie gestart"
+
+#: src/lib/src/Modules/Base/Options/BuildForDisplay.php:250
+#: src/lib/src/Modules/HackGuard/Strings.php:222
+msgid "WP core files"
+msgstr "WP core bestanden"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:14
+#: src/lib/src/Modules/HackGuard/Strings.php:16
+msgid "Scan Completed"
+msgstr "Scan voltooid"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:303
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/MfaProfilesController.php:120
+#: src/lib/src/Modules/Plugin/Lib/AssetsCustomizer.php:219
+#: src/lib/src/Modules/SecurityAdmin/Lib/SecurityAdmin/SecurityAdminController.php:127
+msgid "Are you sure?"
+msgstr "Weet je het zeker?"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:76
+msgid "Detect files that may be infected with malware"
+msgstr "Detecteer bestanden die mogelijk besmet zijn met malware"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:68
+msgid "Discover plugins that may have been abandoned by their authors"
+msgstr "Ontdek plugins die niet meer worden onderhouden door hun ontwikkelaar"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansResults.php:119
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansRun.php:68
+msgid "Run Scans Now"
+msgstr "Scans nu uitvoeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansRun.php:64
+msgid "Select Scans To Run"
+msgstr "Uit te voeren scans selecteren"
+
+#: src/lib/src/Modules/Plugin/Lib/ImportExport/Import.php:75
+msgid "Uploading of file failed"
+msgstr "Uploaden bestand mislukt"
+
+#: src/lib/src/Modules/Plugin/Lib/ImportExport/Import.php:70
+msgid "Please select a file to upload"
+msgstr "Selecteer bestand om te uploaden"
+
+#: src/lib/src/Modules/Plugin/Lib/AssetsCustomizer.php:221
+msgid "Downloading file, please wait..."
+msgstr "Bestand wordt gedownload, even geduld..."
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:90
+msgid "Import Options"
+msgstr "Opties importeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:84
+msgid "No Change"
+msgstr "Geen wijziging"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:82
+msgid "Turn On"
+msgstr "Inschakelen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:241
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:80
+msgid "Import/Export"
+msgstr "Importeren/exporteren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:54
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:57
+msgid "Import From File"
+msgstr "Importeren vanuit bestand"
+
+#: src/lib/src/Modules/CommentsFilter/Strings.php:43
+msgid "Bot"
+msgstr "Bot"
+
+#: src/lib/src/Modules/CommentsFilter/Strings.php:14
+#: src/lib/src/Modules/CommentsFilter/Strings.php:23
+#: src/lib/src/Modules/CommentsFilter/Strings.php:33
+#: src/lib/src/Modules/CommentsFilter/Strings.php:42
+#: src/lib/src/Modules/CommentsFilter/Strings.php:51
+msgid "SPAM Blocked"
+msgstr "Spam geblokkeerd"
+
+#: src/lib/src/Modules/UserManagement/Lib/Suspend/UserSuspendController.php:159
+#: src/lib/src/Modules/UserManagement/Strings.php:30
+msgid "Password Expired"
+msgstr "Wachtwoord verlopen"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/General.php:79
+#: src/lib/src/ActionRouter/Actions/Render/Components/Reports/ChartsSummary.php:69
+#: src/lib/src/Modules/IPs/Strings.php:51
+#: src/lib/src/Modules/IPs/Strings.php:531
+msgid "IP Blocked"
+msgstr "IP-adres geblokkeerd"
+
+#: src/lib/src/Modules/Plugin/Strings.php:72
+msgid "Options Exported"
+msgstr "Opties geëxporteerd"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:61
+msgid "This action can't be undone."
+msgstr "Deze actie kan niet ongedaan worden gemaakt."
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansResults.php:121
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansRun.php:69
+msgid "Scan Progress"
+msgstr "Scan voortgang"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:54
+msgid "Download"
+msgstr "Downloaden"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:66
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:161
+#: src/lib/src/Modules/Lockdown/Strings.php:12
+#: src/lib/src/Modules/Lockdown/Strings.php:18
+#: src/lib/src/Modules/Lockdown/Strings.php:24
+#: src/lib/src/Modules/Traffic/Lib/TrafficTable/BuildTrafficTableData.php:266
+msgid "Blocked"
+msgstr "Geblokkeerd"
+
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadFileScanResultsTableData.php:156
+#: src/lib/src/Modules/Plugin/Strings.php:476
+#: src/lib/src/Tables/Render/WpListTable/AdminNotes.php:16
+#: src/lib/src/Tables/Render/WpListTable/Base.php:222
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:60
+#: src/lib/src/Tables/Render/WpListTable/Base.php:39
+msgid "Refresh"
+msgstr "Verversen"
+
+#: src/lib/src/Tables/Render/WpListTable/Sessions.php:40
+msgid "Discard"
+msgstr "Negeren"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:25
+msgid "Abandoned"
+msgstr "Verlaten"
+
+#: src/lib/src/Modules/Traffic/Lib/TrafficTable/BuildTrafficTableData.php:205
+msgid "Location"
+msgstr "Locatie"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:269
+#: src/lib/src/Modules/Traffic/Lib/TrafficTable/BuildTrafficTableData.php:203
+#: src/lib/src/Tables/Render/WpListTable/Sessions.php:53
+msgid "Logged-In"
+msgstr "Ingelogd"
+
+#: src/lib/src/Modules/Lockdown/Strings.php:61
+msgid "Permissions"
+msgstr "Rechten"
+
+#: src/lib/src/Modules/Lockdown/Strings.php:59
+msgid "Only enable SSL if you have a valid certificate installed."
+msgstr "Schakel SSL alleen in als je een geldig certificaat hebt geïnstalleerd."
+
+#: src/lib/src/Modules/IPs/Strings.php:128
+#: src/lib/src/Modules/IPs/Strings.php:397
+msgid "Failed Login"
+msgstr "Mislukte inlog"
+
+#: src/lib/src/Modules/IPs/Strings.php:437
+msgid "Invalid Usernames"
+msgstr "Ongeldige gebruikersnamen"
+
+#: src/lib/src/Modules/IPs/Strings.php:432
+msgid "This works because legitimate web crawlers respect 'robots.txt' and 'nofollow' directives."
+msgstr "Dit werkt, omdat legitieme webcrawlers zich houden aan 'robots.txt' en 'no follow' regels."
+
+#: src/lib/src/Modules/IPs/Strings.php:320
+msgid "Allow visitors blocked by the plugin to automatically unblock themselves."
+msgstr "Sta bezoekers toe zichzelf automatisch te deblokkeren als ze door de plugin werden geblokkeerd.  "
+
+#: src/lib/src/Modules/IPs/Strings.php:319
+msgid "Allow Visitors To Unblock Their IP"
+msgstr "Bezoekers toestaan hun IP-adres te deblokkeren"
+
+#: src/lib/src/Modules/IPs/Strings.php:254
+msgid "Enable as many options as possible."
+msgstr "Zoveel mogelijk opties inschakelen.  "
+
+#: src/lib/src/Modules/Integrations/Strings.php:46
+#: src/lib/src/Modules/Integrations/Strings.php:57
+#: src/lib/src/Modules/IPs/Strings.php:251
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: src/lib/src/Modules/IPs/Strings.php:237
+#: src/lib/src/Modules/IPs/Strings.php:302
+msgid "Automatic IP Black List"
+msgstr "Automatische blokkeerlijst IP-adressen"
+
+#: src/lib/src/ActionRouter/Actions/IpRuleAddSubmit.php:65
+msgid "IP address added successfully"
+msgstr "Toevoegen IP-adres geslaagd"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:312
+msgid "Confirm Password"
+msgstr "Wachtwoord bevestigen"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:279
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Block/BlockAuthorFishing.php:31
+msgid "Learn More"
+msgstr "Kom meer te weten"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:275
+msgid "Configure Module"
+msgstr "Module configureren"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:265
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ItemAnalysis/Info.php:34
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ItemAnalysis/Malai.php:31
+msgid "Info"
+msgstr "Informatie"
+
+#: src/lib/src/Modules/Plugin/Strings.php:591
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: src/lib/src/Modules/Plugin/Strings.php:590
+msgid "General Plugin Settings"
+msgstr "Algemene instellingen plugin"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:300
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:84
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:119
+#: src/lib/src/Modules/Plugin/Strings.php:589
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: src/lib/src/Modules/Plugin/Strings.php:559
+#: src/lib/src/Modules/Traffic/Lib/TrafficTable/BuildTrafficTableData.php:193
+msgid "IP"
+msgstr "IP"
+
+#: src/lib/src/Modules/Plugin/Strings.php:557
+msgid "Cookie"
+msgstr "Cookie"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:76
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:80
+#: src/lib/src/Modules/Plugin/Strings.php:397
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: src/lib/src/Modules/Plugin/Strings.php:342
+msgid "Delete Plugin Settings"
+msgstr "Instellingen plugin verwijderen"
+
+#: src/lib/src/Modules/Plugin/Strings.php:343
+msgid "Delete All Plugin Settings Upon Plugin Deactivation"
+msgstr "Alle instellingen verwijderen bij deactiveren plugin"
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:80
+#: src/lib/src/Modules/Plugin/Strings.php:544
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/RenderPluginBadge.php:44
+msgid "This Site Is Protected By %s"
+msgstr "Deze site is beveiligd door %s"
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteInsert.php:28
+msgid "Note could not be created."
+msgstr "Notitie kon niet worden aangemaakt."
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteInsert.php:27
+msgid "Note created successfully."
+msgstr "Aanmaken notitie geslaagd."
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteDelete.php:16
+msgid "Note not found."
+msgstr "Notitie niet gevonden."
+
+#: src/lib/src/ActionRouter/Actions/PluginImportFromFileUpload.php:15
+#: src/lib/src/ActionRouter/Actions/PluginImportFromSite.php:38
+msgid "Options imported successfully"
+msgstr "Importeren opties geslaagd"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:277
+msgid "logo"
+msgstr "logo"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:269
+msgid "icon"
+msgstr "pictogram"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:265
+msgid "Menu Icon"
+msgstr "Menu pictogram"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:266
+msgid "Menu Icon URL"
+msgstr "URL van menu pictogram"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:304
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ItemAnalysis/Info.php:52
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:255
+msgid "Description"
+msgstr "Beschrijving"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:236
+msgid "The Name Of The Plugin"
+msgstr "Naam van de plugin"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:235
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:247
+msgid "Plugin Name"
+msgstr "Plugin naam"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:225
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:215
+msgid "%s and %s"
+msgstr "%s en %s"
+
+#: src/lib/src/Modules/Plugin/Strings.php:475
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:173
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:216
+msgid "Activate"
+msgstr "Activeren"
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/BaseZoneReportPosts.php:78
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:164
+msgid "Edit"
+msgstr "Bewerken"
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportPages.php:8
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:160
+msgid "Pages"
+msgstr "Pagina's"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:111
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:163
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:172
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:181
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:202
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:209
+msgid "Careful"
+msgstr "Voorzichtig"
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/BaseZoneReportPluginsThemes.php:17
+msgid "Deactivated"
+msgstr "Gedeactiveerd"
+
+#: src/lib/src/Modules/Lockdown/Strings.php:139
+msgid "Disable File Editing"
+msgstr "Bewerken van bestanden uitschakelen"
+
+#: src/lib/src/Modules/IPs/Strings.php:150
+#: src/lib/src/Modules/Lockdown/Strings.php:24
+msgid "XML-RPC"
+msgstr "XML-RPC"
+
+#: src/lib/src/Modules/Plugin/Strings.php:490
+msgid "Search Engines"
+msgstr "Zoekmachines"
+
+#: src/lib/src/Modules/Plugin/Strings.php:553
+msgid "Blacklist"
+msgstr "Blokkeerlijst"
+
+#: src/lib/src/Modules/Plugin/Strings.php:552
+msgid "Recommendation - %s"
+msgstr "Aanbeveling - %s"
+
+#: src/lib/src/Modules/Lockdown/Strings.php:140
+msgid "Disable Ability To Edit Files From Within WordPress"
+msgstr "Mogelijkheid uitschakelen om bestanden vanuit WordPress te bewerken"
+
+#: src/lib/src/Modules/Lockdown/Strings.php:47
+#: src/lib/src/Modules/Lockdown/Strings.php:52
+msgid "API & XML-RPC"
+msgstr "API & XML-RPC"
+
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:250
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadFileScanResultsTableData.php:184
+#: src/lib/src/Tables/Render/WpListTable/Base.php:246
+msgid "Ignore"
+msgstr "Negeer"
+
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/LoadFileScanResultsTableData.php:172
+#: src/lib/src/Tables/Render/WpListTable/Base.php:234
+msgid "Repair"
+msgstr "Herstel"
+
+#: src/lib/src/Modules/Plugin/Strings.php:375
+msgid "List each site URL on a new line."
+msgstr "Zet elke site URL op een nieuwe regel."
+
+#: src/lib/src/Modules/Plugin/Strings.php:477
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:217
+msgid "Edit Theme Options"
+msgstr "Thema opties bewerken"
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:112
+#: src/lib/src/Modules/Plugin/Strings.php:598
+msgid "Two-Factor Authentication"
+msgstr "Twee factor authenticatie"
+
+#: src/lib/src/Modules/Firewall/Strings.php:88
+msgid "Block SQL Queries"
+msgstr "SQL queries blokkeren"
+
+#: src/lib/src/Modules/Autoupdates/Processor.php:358
+msgid "This is a quick notification from the %s that WordPress Automatic Updates just completed on your site with the following results."
+msgstr "Dit is een kort bericht van de %s dat WordPress automatische updates zojuist op je site zijn voltooid met de volgende resultaten."
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:107
+msgid "This is not required for complete security and if your site has irregular or inconsistent configuration it may not work for you."
+msgstr "Dit is niet vereist voor volledige beveiliging en als je site een onregelmatige of inconsistente configuratie heeft, werkt het mogelijk niet voor je."
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:134
+msgid "Verifies the identity of users who log in to your site using Google Authenticator one-time-passwords."
+msgstr "Verifieert de identiteit van gebruikers die inloggen op je site met eenmalige wachtwoorden van Google Authenticator."
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:219
+msgid "When enabled, all multi-factor authentication methods will be applied to a user login. Disable to require only one to login."
+msgstr "Indien ingeschakeld, worden alle meervoudige authenticatiemethoden toegepast op een gebruiker login. Schakel uit om slechts één login te vereisen."
+
+#: src/lib/src/Modules/HackGuard/Strings.php:185
+msgid "Scans Plugins For Known Vulnerabilities"
+msgstr "Scant plugins op bekende kwetsbaarheden"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:185
+msgid "Daily Cron - %s"
+msgstr "Dagelijkse crontaak - %s"
+
+#: src/lib/src/Modules/HackGuard/Lib/ScanTables/BuildSearchPanesData.php:41
+#: src/lib/src/Modules/HackGuard/Strings.php:75
+#: src/lib/src/Scans/Afs/Processing/MalwareStatus.php:30
+#: src/lib/src/Scans/Afs/Processing/MalwareStatus.php:33
+msgid "Malware"
+msgstr "Malware"
+
+#: src/lib/src/Modules/HackGuard/Scan/Controller/Apc.php:24
+#: src/lib/src/Modules/HackGuard/Strings.php:67
+#: src/lib/src/Modules/HackGuard/Strings.php:143
+msgid "Abandoned Plugins"
+msgstr "Niet langer onderhouden plugins"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:142
+#: src/lib/src/Modules/HackGuard/Strings.php:369
+msgid "Enable The Abandoned Plugin Scanner"
+msgstr "Scanner voor niet langer onderhouden plugins inschakelen"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:87
+#: src/lib/src/Modules/HackGuard/Strings.php:120
+msgid "Vulnerabilities"
+msgstr "Kwetsbaarheden"
+
+#: src/lib/src/ActionRouter/Actions/ScansStart.php:15
+msgid "No scans were selected"
+msgstr "Geen scans geselecteerd"
+
+#: src/lib/src/Modules/HackGuard/ModCon.php:146
+msgid "%s per day"
+msgstr "%s per dag"
+
+#: src/lib/src/Modules/CommentsFilter/Strings.php:144
+#: src/lib/src/Modules/UserManagement/Strings.php:313
+msgid "Take a new line for each user role."
+msgstr "Gebruik een nieuwe regel voor elke gebruikersrol."
+
+#: src/lib/src/Modules/UserManagement/Strings.php:272
+msgid "Passwords Expire After This Many Days"
+msgstr "Wachtwoord verloopt na dit aantal dagen"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:271
+msgid "Password Expiration"
+msgstr "Vervallen wachtwoord"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:262
+msgid "Apply To Existing Users"
+msgstr "Op bestaande gebruikers toepassen"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:257
+msgid "Minimum Password Strength"
+msgstr "Minimale wachtwoordsterkte"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:244
+msgid "Enable Password Policies"
+msgstr "Wachtwoordbeleid inschakelen"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:220
+msgid "Max Simultaneous Sessions"
+msgstr "Maximum aantal gelijktijdige sessies"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:109
+msgid "Requirements"
+msgstr "Vereisten"
+
+#: src/lib/src/Modules/UserManagement/Strings.php:107
+msgid "Have full control over passwords used by users on the site."
+msgstr "Volledige controle over wachtwoorden van gebruikers van de site."
+
+#: src/lib/src/Modules/Plugin/Strings.php:541
+#: src/lib/src/Modules/UserManagement/Strings.php:16
+msgid "Very Strong"
+msgstr "Heel sterk"
+
+#: src/lib/src/Modules/Plugin/Strings.php:540
+#: src/lib/src/Modules/UserManagement/Strings.php:15
+msgid "Strong"
+msgstr "Sterk"
+
+#: src/lib/src/Modules/Plugin/Strings.php:539
+#: src/lib/src/Modules/Plugin/Strings.php:608
+#: src/lib/src/Modules/UserManagement/Strings.php:14
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: src/lib/src/Modules/Plugin/Strings.php:538
+#: src/lib/src/Modules/UserManagement/Strings.php:13
+msgid "Weak"
+msgstr "Zwak"
+
+#: src/lib/src/Modules/Plugin/Strings.php:537
+#: src/lib/src/Modules/UserManagement/Strings.php:12
+msgid "Very Weak"
+msgstr "Erg zwak"
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteBulkAction.php:31
+#: src/lib/src/ActionRouter/Actions/UserSessionsTableBulkAction.php:38
+msgid "Selected items were deleted."
+msgstr "Geselecteerde items werden verwijderd."
+
+#: src/lib/src/ActionRouter/Actions/AdminNoteBulkAction.php:17
+#: src/lib/src/ActionRouter/Actions/UserSessionsTableBulkAction.php:18
+msgid "No items selected."
+msgstr "Geen items geselecteerd."
+
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:381
+#: src/lib/src/Modules/Plugin/Strings.php:596
+#: src/lib/src/Modules/Traffic/Strings.php:39
+#: src/lib/src/Modules/Traffic/Strings.php:48
+#: src/lib/src/Modules/UserManagement/Strings.php:99
+msgid "User Management"
+msgstr "Gebruikersbeheer"
+
+#: src/lib/src/Modules/Base/Options/HandleOptionsSaveRequest.php:26
+msgid "You don't currently have permission to save settings."
+msgstr "Je hebt geen rechten om instellingen op te slaan."
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportPosts.php:8
+msgid "Posts"
+msgstr "Berichten"
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportWordpress.php:71
+msgid "WordPress"
+msgstr "WordPress"
+
+#: src/lib/src/Modules/Plugin/Strings.php:613
+msgid "Automatic license verification failed."
+msgstr "Automatische verificatie licentie mislukt."
+
+#: src/lib/src/ActionRouter/Actions/LicenseLookup.php:25
+#: src/lib/src/Modules/License/WpCli/License.php:100
+msgid "Valid license couldn't be found."
+msgstr "Geen geldige licentie gevonden."
+
+#: src/lib/src/ActionRouter/Actions/LicenseLookup.php:25
+msgid "Valid license found."
+msgstr "Geldige licentie gevonden."
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:359
+#: src/lib/src/Modules/Integrations/Lib/MainWP/Server/Data/ClientPluginStatus.php:93
+msgid "Active"
+msgstr "Actief"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:358
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:20
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/ScansFileLockerDiff.php:43
+msgid "Name"
+msgstr "Naam"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:116
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:117
+msgid "Automatically Update Translations"
+msgstr "Vertalingen automatisch bijwerken"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:92
+msgid "Disable All"
+msgstr "Alles uitschakelen"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:43
+msgid "Keep this option turned on."
+msgstr "Laat deze optie aan staan."
+
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageImportExport.php:83
+#: src/lib/src/Modules/Autoupdates/Strings.php:32
+msgid "Turn Off"
+msgstr "Uitzetten"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Themes.php:58
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportThemes.php:11
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportThemes.php:17
+#: src/lib/src/Modules/Autoupdates/Strings.php:128
+#: src/lib/src/Modules/HackGuard/Strings.php:121
+#: src/lib/src/Modules/HackGuard/Strings.php:262
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:206
+msgid "Themes"
+msgstr "Thema's"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Plugins.php:61
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportPlugins.php:26
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportPlugins.php:40
+#: src/lib/src/Modules/Autoupdates/Strings.php:122
+#: src/lib/src/Modules/HackGuard/Strings.php:121
+#: src/lib/src/Modules/HackGuard/Strings.php:246
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:169
+msgid "Plugins"
+msgstr "Plugins"
+
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:156
+#: src/lib/src/Modules/Plugin/Strings.php:191
+#: src/lib/src/Modules/Plugin/Strings.php:192
+msgid "Export"
+msgstr "Exporteren"
+
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:156
+#: src/lib/src/Modules/Plugin/Lib/Merlin/Steps/Import.php:53
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:289
+#: src/lib/src/Modules/Plugin/Strings.php:191
+#: src/lib/src/Modules/Plugin/Strings.php:192
+msgid "Import"
+msgstr "Importeren"
+
+#: src/lib/src/ActionRouter/Actions/PluginAdmin/PluginAdminPageHandler.php:87
+#: src/lib/src/ActionRouter/Actions/Render/Components/DashboardWidget.php:99
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:360
+msgid "Traffic"
+msgstr "Verkeer"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:326
+msgid "This feature isn't currently enabled."
+msgstr "Deze functie is momenteel niet ingeschakeld."
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:369
+msgid "suggestion"
+msgstr "suggestie"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:368
+msgid "recommendation"
+msgstr "aanbeveling"
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:331
+msgid "ON"
+msgstr "AAN"
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:294
+#: src/lib/src/Modules/Plugin/Strings.php:600
+msgid "Light Theme"
+msgstr "Licht thema"
+
+#: src/lib/src/Modules/LoginGuard/Strings.php:192
+msgid "Only letters and numbers are permitted: %s"
+msgstr "Alleen letters en cijfers zijn toegestaan: %s"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:243
+#: src/lib/src/Modules/Plugin/Lib/MeterAnalysis/Component/UserPasswordPolicies.php:10
+#: src/lib/src/Modules/UserManagement/Strings.php:104
+#: src/lib/src/Modules/UserManagement/Strings.php:105
+msgid "Password Policies"
+msgstr "Wachtwoordbeleid"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:360
+#: src/lib/src/ActionRouter/Actions/Render/MainWP/ExtPage/BaseSubPage.php:59
+#: src/lib/src/Tables/DataTables/Build/ForIpRules.php:56
+#: src/lib/src/Tables/DataTables/Build/Scans/BaseForScan.php:101
+msgid "Status"
+msgstr "Status"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:362
+msgid "Expires"
+msgstr "Verloopt"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:363
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:361
+msgid "Key"
+msgstr "Sleutel"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:129
+msgid "Automatically Update Themes"
+msgstr "Thema's automatisch updaten"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:99
+msgid "Always Automatically Update This Plugin"
+msgstr "Update deze plugin altijd automatisch"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:98
+msgid "Auto Update Plugin"
+msgstr "Plugin automatisch bijwerken"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:58
+#: src/lib/src/Modules/Autoupdates/Strings.php:59
+msgid "Auto-Update Options"
+msgstr "Opties voor automatisch bijwerken"
+
+#: src/lib/src/Modules/Autoupdates/Strings.php:54
+msgid "WordPress Components"
+msgstr "WordPress componenten"
+
+#: src/lib/src/ActionRouter/Actions/Render/PageAdminPlugin.php:143
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/BaseZoneReportUsers.php:50
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportUsers.php:8
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:376
+msgid "Users"
+msgstr "Gebruikers"
+
+#: src/lib/src/Controller/Admin/DashboardWidget.php:29
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:151
+msgid "Overview"
+msgstr "Overzicht"
+
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Block/Components/AutoUnblockCrowdsec.php:30
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Block/Components/AutoUnblockShield.php:29
+msgid "Unblock My IP Address"
+msgstr "Mijn IP-adres deblokkeren"
+
+#: src/lib/src/Modules/Firewall/Strings.php:105
+#: src/lib/src/Modules/Firewall/Strings.php:202
+#: src/lib/src/Modules/Firewall/Strings.php:229
+msgid "PHP Code"
+msgstr "PHP-code"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:262
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageLicense.php:45
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansResults.php:112
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageScansRun.php:59
+#: src/lib/src/Modules/IPs/Lib/Table/BuildIpRulesTableData.php:231
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/U2F.php:153
+#: src/lib/src/Modules/Plugin/Strings.php:493
+#: src/lib/src/Tables/DataTables/Build/SearchPanes/BuildDataForDays.php:17
+msgid "Never"
+msgstr "Nooit"
+
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Mfa/Components/BaseForm.php:50
+msgid "Time Remaining"
+msgstr "Resterende tijd"
+
+#: src/lib/src/Modules/Plugin/Strings.php:550
+msgid "Your IP address is: %s"
+msgstr "Je IP-adres is: %s"
+
+#: src/lib/src/Modules/Autoupdates/Processor.php:396
+msgid "Themes Updated:"
+msgstr "Bijgewerkte thema's:"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:26
+#: src/lib/src/Modules/HackGuard/Scan/Utilities/WpvAddPluginRows.php:84
+msgid "Vulnerable"
+msgstr "Kwetsbaar"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/Results/Base.php:24
+#: src/lib/src/Modules/Firewall/Strings.php:124
+#: src/lib/src/Modules/HackGuard/Strings.php:378
+#: src/lib/src/Modules/IPs/ModCon.php:132
+#: src/lib/src/Modules/Lockdown/Strings.php:178
+#: src/lib/src/Modules/LoginGuard/Lib/Rename/RenameLogin.php:94
+#: src/lib/src/Modules/LoginGuard/Lib/Rename/RenameLogin.php:111
+#: src/lib/src/Modules/Plugin/AdminNotices.php:36
+#: src/lib/src/Modules/Plugin/Lib/NavMenuBuilder.php:183
+#: src/lib/src/Modules/Plugin/Lib/PluginNotices/ForceOff.php:18
+#: src/lib/src/Modules/Plugin/Strings.php:386
+#: src/lib/src/Modules/Traffic/Strings.php:49
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:281
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/MfaLoginCode.php:37
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:44
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UserLoginNotice.php:24
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/BackupCodes.php:120
+#: src/lib/src/Modules/Plugin/Strings.php:558
+#: src/lib/src/Modules/UserManagement/Lib/Session/UserSessionHandler.php:158
+#: src/lib/src/Tables/DataTables/Build/ForActivityLog.php:95
+#: src/lib/src/Tables/DataTables/Build/ForIpRules.php:34
+#: src/lib/src/Tables/DataTables/Build/ForTraffic.php:91
+msgid "IP Address"
+msgstr "IP-adres"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:270
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:374
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/MfaLoginCode.php:36
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:43
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UserLoginNotice.php:23
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/Activity.php:39
+#: src/lib/src/ActionRouter/Actions/Render/Components/IpAnalyse/Sessions.php:41
+#: src/lib/src/ActionRouter/Actions/Render/PluginAdminPages/PageUserSessions.php:48
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/BackupCodes.php:119
+#: src/lib/src/Modules/UserManagement/Lib/Session/UserSessionHandler.php:156
+#: src/lib/src/Tables/Render/WpListTable/AdminNotes.php:27
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/MfaLoginCode.php:35
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/UnblockMagicLink.php:42
+#: src/lib/src/ActionRouter/Actions/Render/MainWP/ExtPage/BaseSubPage.php:57
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/BackupCodes.php:118
+msgid "URL"
+msgstr "URL"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Email/MfaLoginCode.php:34
+#: src/lib/src/Modules/LoginGuard/Lib/TwoFactor/Provider/BackupCodes.php:117
+msgid "Login Details"
+msgstr "Login gegevens"
+
+#: src/lib/src/Modules/HackGuard/Strings.php:178
+msgid "Once every 24hrs."
+msgstr "Eens per 24 uur."
+
+#: src/lib/src/Modules/UserManagement/Lib/Password/UserPasswordHandler.php:265
+msgid "%s time"
+msgid_plural "%s times"
+msgstr[0] "%s keer"
+msgstr[1] "%s keren"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Shield Security"
+msgstr "Schildbeveiliging"
+
+#. Description of the plugin
+msgid "Powerful, Easy-To-Use #1 Rated WordPress Security System"
+msgstr "Krachtig, makkelijk te gebruiken #1 gekozen WordPress beveiligingssysteem"
+
+#: src/lib/src/ActionRouter/Actions/Render/Components/Scans/PluginVulnerabilityWarning.php:25
+#: src/lib/src/ActionRouter/Actions/Render/FullPage/Mfa/Components/LoginIntentFormShield.php:23
+msgid "More Info"
+msgstr "Meer Informatie"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:271
+msgid "Blog"
+msgstr "Site"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:259
+#: src/lib/src/Modules/AuditTrail/Strings.php:358
+#: src/lib/src/Modules/Autoupdates/Strings.php:18
+#: src/lib/src/Modules/CommentsFilter/Strings.php:72
+#: src/lib/src/Modules/Firewall/Strings.php:14
+#: src/lib/src/Modules/HackGuard/Strings.php:111
+#: src/lib/src/Modules/Headers/Strings.php:14
+#: src/lib/src/Modules/IPs/Strings.php:223
+#: src/lib/src/Modules/Lockdown/Strings.php:37
+#: src/lib/src/Modules/LoginGuard/Strings.php:95
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:39
+#: src/lib/src/Modules/Traffic/Strings.php:26
+#: src/lib/src/Modules/UserManagement/Strings.php:94
+msgid "Off"
+msgstr "Uit"
+
+#: src/lib/src/ActionRouter/Actions/Render/BaseRender.php:258
+#: src/lib/src/Modules/AuditTrail/Strings.php:358
+#: src/lib/src/Modules/Autoupdates/Strings.php:18
+#: src/lib/src/Modules/CommentsFilter/Strings.php:72
+#: src/lib/src/Modules/Firewall/Strings.php:14
+#: src/lib/src/Modules/HackGuard/Strings.php:111
+#: src/lib/src/Modules/Headers/Strings.php:14
+#: src/lib/src/Modules/IPs/Strings.php:223
+#: src/lib/src/Modules/Lockdown/Strings.php:37
+#: src/lib/src/Modules/LoginGuard/Strings.php:95
+#: src/lib/src/Modules/SecurityAdmin/Strings.php:39
+#: src/lib/src/Modules/Traffic/Strings.php:26
+#: src/lib/src/Modules/UserManagement/Strings.php:94
+msgid "On"
+msgstr "Aan"
+
+#: src/lib/src/Modules/AuditTrail/Lib/Report/Changes/ZoneReportWordpress.php:86
+#: src/lib/src/Modules/LoginGuard/Lib/Rename/RenameLogin.php:82
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: src/lib/src/Modules/Base/ModCon.php:542
+#: src/lib/src/Modules/Plugin/Strings.php:599
+msgid "Support Forums"
+msgstr "Support Forums"

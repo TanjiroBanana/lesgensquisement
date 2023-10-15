@@ -1,0 +1,107 @@
+/*
+Theme Name:    Kokoro Rose
+Theme URI:     http://zthemes.net/themes/kokorolite
+Author:        ZThemes.net
+Author URI:    https://zthemes.net/
+Description:   Kokoro is a Responsive WordPress blog theme. Get free support and check the demo at http://zthemes.net/themes/kokorolite
+Template:      kokoro
+Version:       1.0.1
+License:       GNU General Public License v2 or later
+License URI:   http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:   kokoro-rose
+Tags:          one-column, two-columns, right-sidebar, custom-background, footer-widgets, full-width-template, custom-logo, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog, news
+
+*/
+
+/*
+Customizations of this theme start here
+*/
+
+/* style.css */
+
+
+/*=========================================
+ Header Layout Style
+ ========================================*/
+
+body {
+  font-size: 13px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+div#page{
+  box-shadow: none;
+}
+a {
+    color: #fdad96;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Dancing Script', cursive;
+}
+nav#site-navigation {
+  background: #fff3f0;
+}
+
+nav#site-navigation a{
+  color: #111111;
+  font-style: italic;
+}
+.main-navigation{
+  border-bottom-color: #ffe9e8;
+  border-top-color: #ffe9e8; 
+}
+p.site-description {
+  font-size: 9px;
+}
+/*==========================================
+ Single Post Style
+ ==========================================*/
+
+ h1.site-title {
+  font-size: 30px;
+  letter-spacing: 4px;
+}
+.entry-cate a {
+  background-color: #fbe6e0;
+}
+.widget-title {
+    border-color: #fff3f0;
+    background: #fff3f0;
+}
+.entry-tags a:hover {
+  background-color: #fbe6e0;
+}
+time.entry-date:hover{
+  color: #fff3f0;
+}
+h2.widget-title, time.entry-date {
+    font-family: 'Josefin Sans', sans-serif;
+}
+.entry-tags a, .widget .tagcloud a {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: none;
+}
+.entry-more a:hover {
+  background-color: #fbe6e0;
+  border-color: #fff3f0;
+}
+.entry-more a {
+    font-family: 'Dancing Script', cursive;
+    text-transform: none;
+    font-size: 16px;
+}
+.entry-box-post{
+  margin: 0;
+}
+/*==========================================
+ Footer Style
+ ==========================================*/
+
+ footer.site-footer {
+  border-bottom: 10px solid #fff3f0;
+}
+footer .site-info {
+  color: #727272;
+  font-size: 10px;
+  letter-spacing: 2px;
+  font-style: italic;
+}

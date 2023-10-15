@@ -1,0 +1,216 @@
+# Translation of Plugins - hCaptcha for WordPress - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - hCaptcha for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-09 18:33:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - hCaptcha for WordPress - Stable (latest release)\n"
+
+#: src/php/Settings/Integrations.php:278
+msgid "Checkout Form"
+msgstr "Afrekenformulier"
+
+#: src/php/Settings/Integrations.php:163
+msgid "Divi Contact Form"
+msgstr "Divi contactformulier"
+
+#: src/php/Settings/Integrations.php:162
+msgid "Divi Comment Form"
+msgstr "Divi reactie formulier"
+
+#: src/php/Settings/Integrations.php:155 src/php/Settings/Integrations.php:178
+#: src/php/Settings/Integrations.php:185 src/php/Settings/Integrations.php:192
+#: src/php/Settings/Integrations.php:199 src/php/Settings/Integrations.php:220
+#: src/php/Settings/Integrations.php:234 src/php/Settings/Integrations.php:241
+#: src/php/Settings/Integrations.php:248 src/php/Settings/Integrations.php:255
+#: src/php/Settings/Integrations.php:262
+msgid "Form"
+msgstr "Formulier"
+
+#: src/php/Settings/Integrations.php:148 src/php/Settings/Integrations.php:227
+#: src/php/Settings/Integrations.php:282
+msgid "Registration Form"
+msgstr "Registratieformulier"
+
+#: src/php/Settings/Integrations.php:132 src/php/Settings/Integrations.php:312
+msgid "Reply Form"
+msgstr "Antwoord formulier"
+
+#: src/php/Settings/Integrations.php:131 src/php/Settings/Integrations.php:311
+msgid "New Topic Form"
+msgstr "Nieuw onderwerp formulier"
+
+#: src/php/Settings/Integrations.php:110 src/php/Settings/Integrations.php:271
+msgid "Register Form"
+msgstr "Registratie formulier"
+
+#: src/php/Settings/Integrations.php:108 src/php/Settings/Integrations.php:270
+#: src/php/Settings/Integrations.php:280
+msgid "Lost Password Form"
+msgstr "Wachtwoord verloren formulier"
+
+#: src/php/Settings/Integrations.php:107 src/php/Settings/Integrations.php:140
+#: src/php/Settings/Integrations.php:269 src/php/Settings/Integrations.php:279
+msgid "Login Form"
+msgstr "Login formulier"
+
+#: src/php/Settings/Integrations.php:106 src/php/Settings/Integrations.php:304
+msgid "Comment Form"
+msgstr "Reactie formulier"
+
+#: src/php/Settings/Integrations.php:76
+msgid "Integrations"
+msgstr "Integraties"
+
+#: src/php/Settings/General.php:449
+msgid "Other"
+msgstr "Andere"
+
+#: src/php/Settings/General.php:446
+msgid "Custom"
+msgstr "Aangepast"
+
+#: src/php/Settings/General.php:443
+msgid "Appearance"
+msgstr "Weergave"
+
+#: src/php/Settings/General.php:440
+msgid "Keys"
+msgstr "Sleutels"
+
+#: src/php/Settings/General.php:337
+msgid "Other Settings"
+msgstr "Andere instellingen"
+
+#: src/php/Settings/General.php:332
+msgid "parameters"
+msgstr "parameters"
+
+#: src/php/Settings/General.php:324
+msgid "Config Params"
+msgstr "Configuratie parameters"
+
+#: src/php/Settings/General.php:319
+msgid "Enterprise"
+msgstr "Enterprise"
+
+#: src/php/Settings/General.php:315 src/php/Settings/Integrations.php:297
+msgid "Pro"
+msgstr "Pro"
+
+#: src/php/Settings/General.php:308
+msgid "Enable Custom Themes"
+msgstr "Aangepaste thema's inschakelen"
+
+#: src/php/Settings/General.php:304
+msgid "Custom Themes"
+msgstr "Aangepaste thema's"
+
+#: src/php/Settings/General.php:286
+msgid "Mode"
+msgstr "Modus"
+
+#: src/php/Settings/General.php:164
+msgid "Language"
+msgstr "Taal"
+
+#: src/php/Settings/General.php:161
+msgid "Select hCaptcha size."
+msgstr "Selecteer hCaptcha grootte."
+
+#: src/php/Settings/General.php:153
+msgid "Size"
+msgstr "Grootte"
+
+#: src/php/Settings/General.php:150
+msgid "Select hCaptcha theme."
+msgstr "Selecteer hCaptcha thema."
+
+#: src/php/Settings/General.php:143
+msgid "Theme"
+msgstr "Thema"
+
+#: src/php/Settings/General.php:138
+msgid "Secret Key"
+msgstr "Geheime sleutel"
+
+#: src/php/Settings/General.php:133
+msgid "Site Key"
+msgstr "Sitesleutel"
+
+#: src/php/Settings/General.php:106
+msgid "General"
+msgstr "Algemeen"
+
+#. Plugin Name of the plugin
+msgid "hCaptcha for WordPress"
+msgstr "hCaptcha for WordPress"
+
+#: src/php/ElementorPro/HCaptchaHandler.php:153
+msgid "To use hCaptcha, you need to add the Site and Secret keys."
+msgstr "Om hCaptcha te gebruiken, moet je de site en geheime sleutels toevoegen."
+
+#: src/php/Settings/General.php:159
+msgid "Invisible"
+msgstr "Onzichtbaar"
+
+#: src/php/Settings/General.php:341
+msgid "Turn Off When Logged In"
+msgstr "Uitzetten wanneer ingelogd"
+
+#: src/php/WP/Comment.php:151
+msgid "Invalid Captcha"
+msgstr "Onjuiste captcha"
+
+#: src/php/Settings/PluginSettingsBase.php:73
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/php/Kadence/Form.php:123
+msgid "hCaptcha Failed"
+msgstr "hCaptcha mislukt"
+
+#: src/php/includes/request.php:69
+msgid "Please complete the hCaptcha."
+msgstr "Completeer de hCaptcha."
+
+#: src/php/Settings/General.php:158
+msgid "Compact"
+msgstr "Compact"
+
+#: src/php/Settings/General.php:157
+msgid "Normal"
+msgstr "Normaal"
+
+#: src/php/Settings/General.php:148
+msgid "Dark"
+msgstr "Donker"
+
+#: src/php/Settings/General.php:147
+msgid "Light"
+msgstr "Licht"
+
+#: src/php/Settings/PluginSettingsBase.php:64
+msgid "hCaptcha Settings"
+msgstr "hCaptcha instellingen"
+
+#: src/php/includes/request.php:70 src/php/includes/request.php:265
+msgid "The hCaptcha is invalid."
+msgstr "De hCaptcha is ongeldig."
+
+#. Author of the plugin
+#: src/php/ElementorPro/HCaptchaHandler.php:326 src/php/NF/Fields.php:59
+#: src/php/Settings/General.php:115 src/php/Settings/Integrations.php:85
+#: src/php/UM/Base.php:123 src/php/UM/Base.php:126
+msgid "hCaptcha"
+msgstr "hCaptcha"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.hcaptcha.com/"
+msgstr "https://www.hcaptcha.com/"

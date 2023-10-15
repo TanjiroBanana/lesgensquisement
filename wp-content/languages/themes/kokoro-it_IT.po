@@ -1,0 +1,396 @@
+# Translation of Themes - Kokoro in Italian
+# This file is distributed under the same license as the Themes - Kokoro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-25 13:26:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Kokoro\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Kokoro is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional. How to install theme: https://youtu.be/9aJYeYjohjo. Check out the demo at http://zthemes.net/themes/kokorolite. Get free support: https://zthemes.net/support"
+msgstr "Kokoro è un tema di WordPress per blog responsive. Il tema è una combinazione perfetta tra bellezza e professionalità. Come installare il tema: https://youtu.be/9aJYeYjohjo. Dai un'occhiata alla demo su http://zthemes.net/themes/kokorolite. Ottieni assistenza gratuita: https://zthemes.net/support"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Kokoro"
+msgstr "Kokoro"
+
+#: inc/dashboard.php:90
+msgid "Kokoro Pro Interior"
+msgstr "Kokoro Interior Premium"
+
+#: inc/dashboard.php:86
+msgid "Kokoro Pro Rose"
+msgstr "Kokoro Rose Premium"
+
+#: inc/dashboard.php:82
+msgid "Kokoro Pro Default Demo"
+msgstr "Demo predefinita di Kokoro Premium"
+
+#: footer.php:27
+msgid "%1$s Kokoro Theme by %2$s"
+msgstr "%1$s Tema Kokoro Theme si %2$s"
+
+#: footer.php:25
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: inc/dashboard.php:117
+msgid "Rate our theme on %1s. We'd really appreciate it!"
+msgstr "Valuta il nostro tema su %1s. Lo apprezzeremmo davvero!"
+
+#: inc/dashboard.php:116
+msgid "Are you enjoying Kokoro theme?"
+msgstr "Ti piace il tema Kokoro?"
+
+#: inc/dashboard.php:110
+msgid "Translate Kokoro"
+msgstr "Traduci Kokoro"
+
+#: inc/dashboard.php:108
+msgid "Get involved at WordPress.org."
+msgstr "Partecipa a WordPress.org."
+
+#: inc/dashboard.php:107
+msgid "Are you a polyglot? Want to translate Kokoro into your own language?"
+msgstr "Sei un poliglotta? Vuoi tradurre Kokoro nella tua lingua?"
+
+#: inc/dashboard.php:97
+msgid "Theme Screenshot"
+msgstr "Screenshot del Tema"
+
+#: inc/dashboard.php:83 inc/dashboard.php:87 inc/dashboard.php:91
+msgid "Upgrade Now"
+msgstr "Aggiorna adesso"
+
+#: inc/dashboard.php:79
+msgid "Our #1 blogging WordPress theme with premium features designed for bloggers and content lovers."
+msgstr "Il nostro #1 tema blog su WordPress per blog con funzionalità premium progettate per blogger e amanti dei contenuti."
+
+#: inc/dashboard.php:73
+msgid "Some Tips"
+msgstr "Alcuni consigli"
+
+#: inc/dashboard.php:72
+msgid "Create a support ticket"
+msgstr "Crea un ticket di assistenza"
+
+#: inc/dashboard.php:69
+msgid "Support for %s WordPress theme is conducted through ZThemes Studio support ticket system."
+msgstr "L'assistenza per il tema %s WordPress viene condotto tramite il sistema di ticket di ZThemes Studio."
+
+#: inc/dashboard.php:67
+msgid "Having Trouble, Need Support?"
+msgstr "Ci sono problemi, hai bisogno di assistenza?"
+
+#: inc/dashboard.php:63
+msgid "Start Customize"
+msgstr "Inizia a personalizzare"
+
+#: inc/dashboard.php:60
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporta il Personalizzatore dei temi per tutte le impostazioni. Fai clic su \"Personalizza\" per iniziare a personalizzare il tuo sito."
+
+#: inc/dashboard.php:58
+msgid "Theme Customizer"
+msgstr "Personalizzatore del tema"
+
+#: inc/dashboard.php:50
+msgid "Contribute"
+msgstr "Contribuisci"
+
+#: inc/dashboard.php:49
+msgid "Free vs PRO"
+msgstr "Confronta le versioni Gratuita e Premium"
+
+#: inc/dashboard.php:43
+msgid "Kokoro is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional."
+msgstr "Kokoro è un tema di WordPress per blog responsive. Il tema è una combinazione perfetta tra bellezza e professionalità."
+
+#: inc/dashboard.php:41
+msgid "Welcome to %1s - Version %2s"
+msgstr "Benvenuti in %1s – Versione %2s"
+
+#: inc/dashboard.php:11
+msgid "%s theme"
+msgstr "Tema %s"
+
+#: inc/dashboard.php:11
+msgid "%s Theme Dashboard"
+msgstr "Bacheca del tema %s"
+
+#: inc/customizer.php:380
+msgid "<span>1-CLICK DEMO IMPORT</span><span>900+ GOOGLE FONTS</span><span>WooCommerce Compatible</span><span>Featured slider</span><span>6 Different Blog Layouts</span><span>Fully Responsive</span><span>100+ Customizable coloring options</span><span>4 Custom Widgets</span><span>Posts/Page Settings</span><span>Footer Copyright Text</span><span>Footer Menu</span><span>Lifetime Upgrades</span><span>LifeTime Support</span><span>Mailchimp Support</span><span>Well Documented</span><span>Child Theme included</span><span>And More...</span>"
+msgstr "<span>1-CLICK DEMO IMPORT</span><span>oltre 900 Google Fonts</span><span>Compatibile con WooCommerce</span><span>Slider in evidenza</span><span>6 diversi tipi di Layout per il blog</span><span>Completamente responsive</span><span>oltre 100 opzioni di colore personalissabili</span><span>4 Widget personalizzati</span><span>Impostazioni articoli e pagine</span><span>Testo Copyright del Footer</span><span>Menu Footer</span><span>Aggiornamenti a vita</span><span>Assistenza a vita</span><span>Assistenza Mailchimp</span><span>Documentazione completa</span><span>Temi Child inclusi</span><span>e molto altro...</span>"
+
+#: footer.php:25
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:33
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifica<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-page.php:23
+msgid "Page"
+msgstr "Pagina"
+
+#: template-parts/content-page.php:19 template-parts/content.php:54
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Non riusciamo a trovare quello stai cercando. Forse, una ricerca potrebbe aiutarti."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Non siamo riusciti a trovare nulla che corrispondesse ai termini di ricerca indicati. Riprova con parole differenti."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Vuoi pubblicare il tuo primo articolo? <a href=\"%1$s\">Inizia da qui</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: template-parts/content.php:68
+msgid "Continue Reading"
+msgstr "Continua a leggere"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Risultati di ricerca per: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lascia un commento<span class=\"screen-reader-text\"> su %s</span>"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Taggato %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Pubblicato su %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "di %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid " %s"
+msgstr " %s"
+
+#: inc/customizer.php:393
+msgid "<a target=\"_blank\" class=\"kokoro-buy-button\" href=\"https://zthemes.net/themes/kokoro\">Buy Now</a>"
+msgstr "<a target=\"_blank\" class=\"kokoro-buy-button\" href=\"https://zthemes.net/themes/kokoro\">Acquista ora</a>"
+
+#: inc/customizer.php:379
+msgid "Kokoro Features"
+msgstr "Funzionalità di Kokoro"
+
+#: inc/customizer.php:364 inc/dashboard.php:77
+msgid "Upgrade to Kokoro Pro"
+msgstr "Passa a Kokoro Premium"
+
+#: inc/customizer.php:355
+msgid "Primary Color"
+msgstr "Colore principale"
+
+#: inc/customizer.php:337
+msgid "Color Accent"
+msgstr "Colore in evidenza"
+
+#: inc/customizer.php:325
+msgid "Rss"
+msgstr "Rss"
+
+#: inc/customizer.php:312
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/customizer.php:299
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:286
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/customizer.php:272
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/customizer.php:259
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/customizer.php:246
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/customizer.php:233
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: inc/customizer.php:220
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/customizer.php:207
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:194
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:181
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:84
+msgid "Enter your social media(URL). Icons will not show if left blank."
+msgstr "Inserisci il tuo social media (URL). Se lasci il campo vuoto, le icone non verranno visualizzate."
+
+#: inc/customizer.php:83
+msgid "Social Media Settings"
+msgstr "Impostazioni dei social media"
+
+#: inc/customizer.php:75
+msgid "Disable Sidebar on Single Page"
+msgstr "Disabilita la barra laterale per la pagina singola"
+
+#: inc/customizer.php:61
+msgid "Disable Sidebar on Single Post"
+msgstr "Disabilita la barra laterale per l'articolo singolo"
+
+#: inc/customizer.php:47
+msgid "Disable Sidebar on Home Page, Archive Page"
+msgstr "Disabilita la barra laterale nella homepage e nella pagina di archivio"
+
+#: inc/customizer.php:23
+msgid "Theme Options"
+msgstr "Opzioni del tema"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: functions.php:173
+msgid "Use the \"Instagram\" widget here. IMPORTANT: For best result set number of photos to 4."
+msgstr "Usa qui il widget \"Instagram\". IMPORTANTE: per ottenere i migliori risultati, imposta il numero di foto su 4."
+
+#: functions.php:167
+msgid "Instagram Footer"
+msgstr "Footer di Instagram"
+
+#: functions.php:160
+msgid "Add widgets here."
+msgstr "Aggiungi qui i widget."
+
+#: functions.php:158 inc/customizer.php:31
+msgid "Sidebar"
+msgstr "Barra laterale"
+
+#: functions.php:112
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:111
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:49
+msgid "Top menu"
+msgstr "Menu in alto"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Primario"
+
+#: comments.php:91
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: comments.php:57 comments.php:78
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: comments.php:56 comments.php:77
+msgid "Older Comments"
+msgstr "Commenti meno recenti"
+
+#: comments.php:53 comments.php:74
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensiero su &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensieri su &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensiero su &ldquo;%s &rdquo;"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a cercare negli archivi mensili. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Sembra non vi sia nulla in questa posizione. Provare con qualcuno dei link qua sotto o una ricerca?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Pagina non trovata."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "ZThemes Studio"
+msgstr "ZThemes Studio"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://zthemes.net/"
+msgstr "https://zthemes.net/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "http://zthemes.net/themes/kokorolite"
+msgstr "http://zthemes.net/themes/kokorolite"

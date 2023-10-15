@@ -1,0 +1,1474 @@
+{
+    "dup_type": "lite",
+    "created": "2023-09-29 15:48:12",
+    "version_dup": "1.5.6",
+    "version_wp": "6.3.1",
+    "version_db": "5.7.42",
+    "version_php": "7.2.34",
+    "version_os": "Linux",
+    "blogname": "",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$KXMPJuzZvEYzhmDEuJ2YNeUJTS7\/PAR96cN6cAArSo2ZlfLf7smoa",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wor831_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "lesgensquisement.com",
+            "path": "\/",
+            "blogname": "",
+            "blog_prefix": "wor831_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "Laure",
+                    "id": "1"
+                },
+                {
+                    "ID": "2",
+                    "user_login": "WpBlog",
+                    "id": "2"
+                }
+            ],
+            "fullHomeUrl": "http:\/\/lesgensquisement.com",
+            "fullSiteUrl": "http:\/\/lesgensquisement.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/lesgensqkc\/www\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/lesgensqkc\/www\/wp-content\/uploads",
+            "fullUploadUrl": "http:\/\/lesgensquisement.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8",
+            "utf8mb4",
+            "latin1"
+        ],
+        "collationList": [
+            "latin1_swedish_ci",
+            "utf8_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "lesgensqkc0210",
+        "tablesBaseCount": 90,
+        "tablesFinalCount": 90,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 34554,
+        "tablesSizeOnDisk": 23003136,
+        "tablesList": {
+            "wor831_acym_action": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_acym_automation": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_acym_campaign": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wor831_acym_condition": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_acym_configuration": {
+                "inaccurateRows": 103,
+                "insertedRows": 103,
+                "size": 16384
+            },
+            "wor831_acym_custom_zone": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_acym_field": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wor831_acym_followup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_acym_followup_has_mail": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_acym_form": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_acym_history": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 16384
+            },
+            "wor831_acym_list": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wor831_acym_mail": {
+                "inaccurateRows": 22,
+                "insertedRows": 22,
+                "size": 163840
+            },
+            "wor831_acym_mail_has_list": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wor831_acym_mail_override": {
+                "inaccurateRows": 12,
+                "insertedRows": 12,
+                "size": 32768
+            },
+            "wor831_acym_mail_stat": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wor831_acym_plugin": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wor831_acym_queue": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_acym_rule": {
+                "inaccurateRows": 15,
+                "insertedRows": 15,
+                "size": 16384
+            },
+            "wor831_acym_segment": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_acym_step": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_acym_tag": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_acym_url": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 16384
+            },
+            "wor831_acym_url_click": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_acym_user": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wor831_acym_user_has_field": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_acym_user_has_list": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 81920
+            },
+            "wor831_acym_user_stat": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wor831_brizy_logs": {
+                "inaccurateRows": 26,
+                "insertedRows": 26,
+                "size": 16384
+            },
+            "wor831_cli_cookie_scan": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_cli_cookie_scan_categories": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_cli_cookie_scan_cookies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_cli_cookie_scan_url": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_cli_scripts": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 16384
+            },
+            "wor831_cmplz_cookiebanners": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wor831_cmplz_cookies": {
+                "inaccurateRows": 85,
+                "insertedRows": 85,
+                "size": 16384
+            },
+            "wor831_cmplz_services": {
+                "inaccurateRows": 25,
+                "insertedRows": 25,
+                "size": 16384
+            },
+            "wor831_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_comments": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 98304
+            },
+            "wor831_duplicator_packages": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wor831_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_gdpr_cc_options": {
+                "inaccurateRows": 43,
+                "insertedRows": 43,
+                "size": 81920
+            },
+            "wor831_icwp_wpsf_at_logs": {
+                "inaccurateRows": 5330,
+                "insertedRows": 4762,
+                "size": 1179648
+            },
+            "wor831_icwp_wpsf_at_meta": {
+                "inaccurateRows": 7461,
+                "insertedRows": 6425,
+                "size": 1196032
+            },
+            "wor831_icwp_wpsf_botsignal": {
+                "inaccurateRows": 2605,
+                "insertedRows": 2547,
+                "size": 4243456
+            },
+            "wor831_icwp_wpsf_crowdsec_signals": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_event": {
+                "inaccurateRows": 685,
+                "insertedRows": 754,
+                "size": 65536
+            },
+            "wor831_icwp_wpsf_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_file_locker": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_ips": {
+                "inaccurateRows": 7287,
+                "insertedRows": 7262,
+                "size": 1261568
+            },
+            "wor831_icwp_wpsf_ip_rules": {
+                "inaccurateRows": 6059,
+                "insertedRows": 5997,
+                "size": 819200
+            },
+            "wor831_icwp_wpsf_malware": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 1589248
+            },
+            "wor831_icwp_wpsf_reports": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wor831_icwp_wpsf_req_logs": {
+                "inaccurateRows": 2794,
+                "insertedRows": 2785,
+                "size": 1622016
+            },
+            "wor831_icwp_wpsf_resultitems": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_resultitem_meta": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wor831_icwp_wpsf_scanitems": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_icwp_wpsf_scanresults": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wor831_icwp_wpsf_scans": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_snapshots": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 16384
+            },
+            "wor831_icwp_wpsf_user_meta": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wor831_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_newsletter": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wor831_newsletter_emails": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 49152
+            },
+            "wor831_newsletter_sent": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_newsletter_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_newsletter_user_logs": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_options": {
+                "inaccurateRows": 530,
+                "insertedRows": 564,
+                "size": 4276224
+            },
+            "wor831_postmeta": {
+                "inaccurateRows": 603,
+                "insertedRows": 607,
+                "size": 3555328
+            },
+            "wor831_posts": {
+                "inaccurateRows": 154,
+                "insertedRows": 151,
+                "size": 327680
+            },
+            "wor831_swpm_membership_meta_tbl": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wor831_swpm_membership_tbl": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wor831_swpm_members_tbl": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_swpm_payments_tbl": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_termmeta": {
+                "inaccurateRows": 25,
+                "insertedRows": 25,
+                "size": 49152
+            },
+            "wor831_terms": {
+                "inaccurateRows": 59,
+                "insertedRows": 59,
+                "size": 49152
+            },
+            "wor831_term_relationships": {
+                "inaccurateRows": 211,
+                "insertedRows": 211,
+                "size": 32768
+            },
+            "wor831_term_taxonomy": {
+                "inaccurateRows": 59,
+                "insertedRows": 59,
+                "size": 49152
+            },
+            "wor831_um_metadata": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wor831_usermeta": {
+                "inaccurateRows": 194,
+                "insertedRows": 194,
+                "size": 98304
+            },
+            "wor831_users": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 65536
+            },
+            "wor831_wpgdprc_access_requests": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_wpgdprc_consents": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wor831_wpgdprc_delete_requests": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wor831_wpgdprc_log": {
+                "inaccurateRows": 33,
+                "insertedRows": 33,
+                "size": 16384
+            },
+            "wor831_yoast_indexable": {
+                "inaccurateRows": 29,
+                "insertedRows": 28,
+                "size": 114688
+            },
+            "wor831_yoast_indexable_hierarchy": {
+                "inaccurateRows": 28,
+                "insertedRows": 27,
+                "size": 65536
+            },
+            "wor831_yoast_migrations": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 32768
+            },
+            "wor831_yoast_primary_term": {
+                "inaccurateRows": 1,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wor831_yoast_seo_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MySQL",
+        "version": "5.7.42",
+        "versionComment": "MySQL Community Server (GPL)",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 2,
+        "packageName": "lesgensquisement",
+        "packageHash": "4839d13-29154812",
+        "secondaryHash": "2efff81-29154812"
+    },
+    "fileInfo": {
+        "dirCount": 3182,
+        "fileCount": 21701,
+        "size": 123047435
+    },
+    "wpInfo": {
+        "version": "6.3.1",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/lesgensqkc\/www",
+        "targetPaths": [
+            "\/home\/lesgensqkc\/www"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "Laure",
+                "id": "1"
+            },
+            {
+                "ID": "2",
+                "user_login": "WpBlog",
+                "id": "2"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/lesgensqkc\/www\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "ftkCIg18ZojBfduxM9oRXxZs0Om1Qhk1Z+ZDcXw+WwujPRXEPxgPMLkEt+N1",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "09Tnyr1jnGD3y\/4uiAgmHXwtbUW07F5jzq7egR9XdsIdbZRQWpmtdjqOnnpI",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "YkjeAQQr3psvTBDlZZlYpgVPy\/nAsXikIXoLvq6ep1LMVpBjIoge2uGZNygE",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "ypeHQtFogMp2dgtW215PGW80HnlzZKecrVdohb7Z3RDrjM+bsSvf70RjvFlw",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "WpNNASadzg0oR8wjvViROjBgljUEaTU6BZbS\/e26syyGvRKuniwZ47H\/vXU6",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "Leogp7jgzThk8jGL7c2\/GGnxWwN4ygyZ5myTYJKBbmjrp+JLze2WqkjapLCk",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "x\/Fqmdk7Kq8RHK2S7ZaaehgPt2kiZJuhp8R19\/zeRCiocAnOvFOdHf2ZhGtt",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "nrw2McZjtZzI1vwTCJHewwFKQguOXeL9TH1dwAnn6u8Ipy1uDerMgJZJE9Rc",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/lesgensquisement.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/lesgensquisement.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "CONCATENATE_SCRIPTS": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "512M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content\/themes\/minalite",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content\/themes\/minalite",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/lesgensqkc\/www\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/lesgensquisement.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/lesgensquisement.com",
+                "homeUrl": "http:\/\/lesgensquisement.com",
+                "loginUrl": "http:\/\/lesgensquisement.com\/wp-login.php",
+                "contentUrl": "http:\/\/lesgensquisement.com\/wp-content",
+                "uploadBaseUrl": "http:\/\/lesgensquisement.com\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/lesgensquisement.com\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/lesgensquisement.com\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/lesgensquisement.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/lesgensqkc\/www",
+                    "abs": "\/home\/lesgensqkc\/www",
+                    "wpconfig": "\/home\/lesgensqkc\/www",
+                    "wpcontent": "\/home\/lesgensqkc\/www\/wp-content",
+                    "uploads": "\/home\/lesgensqkc\/www\/wp-content\/uploads",
+                    "plugins": "\/home\/lesgensqkc\/www\/wp-content\/plugins",
+                    "muplugins": "\/home\/lesgensqkc\/www\/wp-content\/mu-plugins",
+                    "themes": "\/home\/lesgensqkc\/www\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/lesgensqkc\/www",
+                    "abs": "\/home\/lesgensqkc\/www",
+                    "wpconfig": "\/home\/lesgensqkc\/www",
+                    "wpcontent": "\/home\/lesgensqkc\/www\/wp-content",
+                    "uploads": "\/home\/lesgensqkc\/www\/wp-content\/uploads",
+                    "plugins": "\/home\/lesgensqkc\/www\/wp-content\/plugins",
+                    "muplugins": "\/home\/lesgensqkc\/www\/wp-content\/mu-plugins",
+                    "themes": "\/home\/lesgensqkc\/www\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "brizy\/brizy.php": {
+                "slug": "brizy\/brizy.php",
+                "name": "Brizy",
+                "version": "2.4.27",
+                "pluginURI": "https:\/\/brizy.io\/",
+                "author": "Brizy.io",
+                "authorURI": "https:\/\/brizy.io\/",
+                "description": "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy.",
+                "title": "Brizy",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-gdpr-compliance\/wp-gdpr-compliance.php": {
+                "slug": "wp-gdpr-compliance\/wp-gdpr-compliance.php",
+                "name": "Cookie Information | Free WP GDPR Consent Plugin",
+                "version": "2.0.22",
+                "pluginURI": "https:\/\/cookieinformation.com\/",
+                "author": "Cookie Information",
+                "authorURI": "https:\/\/cookieinformation.com\/",
+                "description": "The consent solution for non-businesses. This is a free plug-in that offers basic features.",
+                "title": "Cookie Information | Free WP GDPR Consent Plugin",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.6",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "dynamic-to-top\/dynamic-to-top.php": {
+                "slug": "dynamic-to-top\/dynamic-to-top.php",
+                "name": "Dynamic To Top",
+                "version": "3.5.2",
+                "pluginURI": "http:\/\/www.mattvarone.com\/featured-content\/dynamic-to-top\/",
+                "author": "Matt Varone, Tim Berneman",
+                "authorURI": "http:\/\/www.mattvarone.com",
+                "description": "Adds an automatic and dynamic \"To Top\" button to scroll long pages back to the top.",
+                "title": "Dynamic To Top",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.16.4",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gdpr-cookie-compliance\/moove-gdpr.php": {
+                "slug": "gdpr-cookie-compliance\/moove-gdpr.php",
+                "name": "GDPR Cookie Compliance",
+                "version": "4.12.7",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/gdpr-cookie-compliance\/",
+                "author": "Moove Agency",
+                "authorURI": "https:\/\/www.mooveagency.com",
+                "description": "Our plugin is useful in preparing your site for the following data protection and privacy regulations: GDPR, CCPA, PIPEDA, AAP, LGPD and others.",
+                "title": "GDPR Cookie Compliance",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hcaptcha-for-forms-and-more\/hcaptcha.php": {
+                "slug": "hcaptcha-for-forms-and-more\/hcaptcha.php",
+                "name": "hCaptcha for WordPress",
+                "version": "2.5.1",
+                "pluginURI": "https:\/\/www.hcaptcha.com\/",
+                "author": "hCaptcha",
+                "authorURI": "https:\/\/www.hcaptcha.com\/",
+                "description": "hCaptcha keeps out bots and spam while putting privacy first. It is a drop-in replacement for reCAPTCHA.",
+                "title": "hCaptcha for WordPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "mailchimp-for-wp\/mailchimp-for-wp.php": {
+                "slug": "mailchimp-for-wp\/mailchimp-for-wp.php",
+                "name": "MC4WP: Mailchimp for WordPress",
+                "version": "4.9.7",
+                "pluginURI": "https:\/\/www.mc4wp.com\/#utm_source=wp-plugin&utm_medium=mailchimp-for-wp&utm_campaign=plugins-page",
+                "author": "ibericode",
+                "authorURI": "https:\/\/ibericode.com\/",
+                "description": "Mailchimp for WordPress by ibericode. Adds various highly effective sign-up methods to your site.",
+                "title": "MC4WP: Mailchimp for WordPress",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ocean-extra\/ocean-extra.php": {
+                "slug": "ocean-extra\/ocean-extra.php",
+                "name": "Ocean Extra",
+                "version": "2.2.0",
+                "pluginURI": "https:\/\/oceanwp.org\/extension\/ocean-extra\/",
+                "author": "OceanWP",
+                "authorURI": "https:\/\/oceanwp.org\/",
+                "description": "Add extra features and flexibility to your OceanWP theme for a turbocharged premium experience and full control over every aspect of your website.",
+                "title": "Ocean Extra",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wp-simple-firewall\/icwp-wpsf.php": {
+                "slug": "wp-simple-firewall\/icwp-wpsf.php",
+                "name": "Shield Security",
+                "version": "18.3.9",
+                "pluginURI": "https:\/\/shsec.io\/2f",
+                "author": "Shield Security",
+                "authorURI": "https:\/\/shsec.io\/bv",
+                "description": "Powerful, Easy-To-Use #1 Rated WordPress Security System",
+                "title": "Shield Security",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "simple-membership\/simple-wp-membership.php": {
+                "slug": "simple-membership\/simple-wp-membership.php",
+                "name": "Simple WordPress Membership",
+                "version": "4.3.6",
+                "pluginURI": "https:\/\/simple-membership-plugin.com\/",
+                "author": "smp7, wp.insider",
+                "authorURI": "https:\/\/simple-membership-plugin.com\/",
+                "description": "A flexible, well-supported, and easy-to-use WordPress membership plugin for offering free and premium content from your WordPress site.",
+                "title": "Simple WordPress Membership",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "google-site-kit\/google-site-kit.php": {
+                "slug": "google-site-kit\/google-site-kit.php",
+                "name": "Site Kit by Google",
+                "version": "1.110.0",
+                "pluginURI": "https:\/\/sitekit.withgoogle.com",
+                "author": "Google",
+                "authorURI": "https:\/\/opensource.google.com",
+                "description": "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.",
+                "title": "Site Kit by Google",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ultimate-member\/ultimate-member.php": {
+                "slug": "ultimate-member\/ultimate-member.php",
+                "name": "Ultimate Member",
+                "version": "2.6.11",
+                "pluginURI": "http:\/\/ultimatemember.com\/",
+                "author": "Ultimate Member",
+                "authorURI": "http:\/\/ultimatemember.com\/",
+                "description": "The easiest way to create powerful online communities and beautiful user profiles with WordPress",
+                "title": "Ultimate Member",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "um-recaptcha\/um-recaptcha.php": {
+                "slug": "um-recaptcha\/um-recaptcha.php",
+                "name": "Ultimate Member - reCAPTCHA",
+                "version": "2.3.3",
+                "pluginURI": "https:\/\/ultimatemember.com\/extensions\/google-recaptcha\/",
+                "author": "Ultimate Member",
+                "authorURI": "http:\/\/ultimatemember.com\/",
+                "description": "Protect your website from spam and integrate Google reCAPTCHA into your Ultimate Member forms",
+                "title": "Ultimate Member - reCAPTCHA",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "updraftplus\/updraftplus.php": {
+                "slug": "updraftplus\/updraftplus.php",
+                "name": "UpdraftPlus - Backup\/Restore",
+                "version": "1.23.10",
+                "pluginURI": "https:\/\/updraftplus.com",
+                "author": "UpdraftPlus.Com, DavidAnderson",
+                "authorURI": "https:\/\/updraftplus.com",
+                "description": "Backup and restore: take backups locally, or backup to Amazon S3, Dropbox, Google Drive, Rackspace, (S)FTP, WebDAV & email, on automatic schedules.",
+                "title": "UpdraftPlus - Backup\/Restore",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "customer-area\/customer-area.php": {
+                "slug": "customer-area\/customer-area.php",
+                "name": "WP Customer Area",
+                "version": "8.2.0",
+                "pluginURI": "https:\/\/wp-customerarea.com",
+                "author": "Foobar Studio",
+                "authorURI": "https:\/\/foobar.studio",
+                "description": "WP Customer Area is a modular all-in-one solution to manage private content with WordPress.",
+                "title": "WP Customer Area",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wordpress-seo\/wp-seo.php": {
+                "slug": "wordpress-seo\/wp-seo.php",
+                "name": "Yoast SEO",
+                "version": "21.2",
+                "pluginURI": "https:\/\/yoa.st\/1uj",
+                "author": "Team Yoast",
+                "authorURI": "https:\/\/yoa.st\/1uk",
+                "description": "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more.",
+                "title": "Yoast SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "atento": {
+                "slug": "atento",
+                "themeName": "Atento",
+                "version": "1.0.9",
+                "themeURI": "https:\/\/precisethemes.com\/wordpress-theme\/atento\/",
+                "parentTheme": false,
+                "template": "atento",
+                "stylesheet": "atento",
+                "description": "Atento is a minimalist WordPress blog theme beautifully crafted to help you create a stunning blog, suitable for any kind of blog fashion, travel, music, car, real state, beauty, design, food, wedding, movie, photography, technology, personal blog sites. It is designed with a focus on minimal &amp; clean design, unique styling, elegant typography selection to highlight and emphasis your blog content to your readers.",
+                "author": "Precise Themes",
+                "authorURI": "https:\/\/precisethemes.com\/",
+                "tags": [
+                    "two-columns",
+                    "left-sidebar",
+                    "right-sidebar",
+                    "flexible-header",
+                    "custom-background",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "kokoro-rose": {
+                "slug": "kokoro-rose",
+                "themeName": "Kokoro Rose",
+                "version": "1.0.1",
+                "themeURI": "http:\/\/zthemes.net\/themes\/kokorolite",
+                "parentTheme": "kokoro",
+                "template": "kokoro",
+                "stylesheet": "kokoro-rose",
+                "description": "Kokoro is a Responsive WordPress blog theme. Get free support and check the demo at http:\/\/zthemes.net\/themes\/kokorolite",
+                "author": "ZThemes.net",
+                "authorURI": "https:\/\/zthemes.net\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "custom-background",
+                    "footer-widgets",
+                    "full-width-template",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "kokoro": {
+                "slug": "kokoro",
+                "themeName": "Kokoro",
+                "version": "1.1.5",
+                "themeURI": "http:\/\/zthemes.net\/themes\/kokorolite",
+                "parentTheme": false,
+                "template": "kokoro",
+                "stylesheet": "kokoro",
+                "description": "Kokoro is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional. How to install theme: https:\/\/youtu.be\/9aJYeYjohjo. Check out the demo at http:\/\/zthemes.net\/themes\/kokorolite. Get free support: https:\/\/zthemes.net\/support",
+                "author": "ZThemes Studio",
+                "authorURI": "https:\/\/zthemes.net\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "custom-background",
+                    "footer-widgets",
+                    "full-width-template",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "minalite": {
+                "slug": "minalite",
+                "themeName": "MinaLite",
+                "version": "1.0.7",
+                "themeURI": "https:\/\/zthemes.net\/themes\/minalite",
+                "parentTheme": false,
+                "template": "minalite",
+                "stylesheet": "minalite",
+                "description": "MinaLite is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional. How to install theme: https:\/\/youtu.be\/9aJYeYjohjo. Get free support and check the demo at https:\/\/zthemes.net\/themes\/minalite",
+                "author": "ZThemes Studio",
+                "authorURI": "https:\/\/zthemes.net\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "custom-background",
+                    "footer-widgets",
+                    "full-width-template",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "ns-minimal": {
+                "slug": "ns-minimal",
+                "themeName": "NS Minimal",
+                "version": "1.1.3",
+                "themeURI": "https:\/\/www.nuno-sarmento.com\/portfolio\/ns-minimal\/",
+                "parentTheme": false,
+                "template": "ns-minimal",
+                "stylesheet": "ns-minimal",
+                "description": "NS Minimal is a WordPress theme for bloggers. Lightweight theme, very fast, responsive, RTL &amp; translation ready and best SEO practices. This theme will looks awesome on every device (mobile, tablet and desktop).",
+                "author": "nunosarmento",
+                "authorURI": "http:\/\/www.nuno-sarmento.com",
+                "tags": [
+                    "two-columns",
+                    "left-sidebar",
+                    "right-sidebar",
+                    "flexible-header",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "post-formats",
+                    "rtl-language-support",
+                    "theme-options",
+                    "translation-ready",
+                    "blog"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "saralite": {
+                "slug": "saralite",
+                "themeName": "SaraLite",
+                "version": "1.0.4",
+                "themeURI": "http:\/\/zthemes.net\/themes\/saralite",
+                "parentTheme": false,
+                "template": "saralite",
+                "stylesheet": "saralite",
+                "description": "SaraLite is a Responsive WordPress blog theme. The theme is a perfect combination of beautiful and professional. How to install theme: https:\/\/youtu.be\/9aJYeYjohjo. Get free support and check the demo at http:\/\/zthemes.net\/themes\/saralite",
+                "author": "ZThemes Studio",
+                "authorURI": "https:\/\/zthemes.net\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "custom-background",
+                    "footer-widgets",
+                    "full-width-template",
+                    "custom-logo",
+                    "custom-menu",
+                    "featured-images",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentynineteen": {
+                "slug": "twentynineteen",
+                "themeName": "Twenty Nineteen",
+                "version": "2.4",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentynineteen\/",
+                "parentTheme": false,
+                "template": "twentynineteen",
+                "stylesheet": "twentynineteen",
+                "description": "Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you\u2019re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "flexible-header",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentyseventeen": {
+                "slug": "twentyseventeen",
+                "themeName": "Twenty Seventeen",
+                "version": "3.1",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentyseventeen\/",
+                "parentTheme": false,
+                "template": "twentyseventeen",
+                "stylesheet": "twentyseventeen",
+                "description": "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "flexible-header",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentysixteen": {
+                "slug": "twentysixteen",
+                "themeName": "Twenty Sixteen",
+                "version": "2.8",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentysixteen\/",
+                "parentTheme": false,
+                "template": "twentysixteen",
+                "stylesheet": "twentysixteen",
+                "description": "Twenty Sixteen is a modernized take on an ever-popular WordPress layout \u2014 the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "two-columns",
+                    "right-sidebar",
+                    "accessibility-ready",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-header",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "flexible-header",
+                    "microformats",
+                    "post-formats",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "blog",
+                    "block-patterns"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwenty": {
+                "slug": "twentytwenty",
+                "themeName": "Twenty Twenty",
+                "version": "2.1",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwenty\/",
+                "parentTheme": false,
+                "template": "twentytwenty",
+                "stylesheet": "twentytwenty",
+                "description": "Our default theme for 2020 is designed to take full advantage of the flexibility of the block editor. Organizations and businesses have the ability to create dynamic landing pages with endless layouts using the group and column blocks. The centered content column and fine-tuned typography also makes it perfect for traditional blogs. Complete editor styles give you a good idea of what your content will look like, even before you publish. You can give your site a personal touch by changing the background colors and the accent color in the Customizer. The colors of all elements on your site are automatically calculated based on the colors you pick, ensuring a high, accessible color contrast for your visitors.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "blog",
+                    "one-column",
+                    "custom-background",
+                    "custom-colors",
+                    "custom-logo",
+                    "custom-menu",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "full-width-template",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "theme-options",
+                    "threaded-comments",
+                    "translation-ready",
+                    "block-patterns",
+                    "block-styles",
+                    "wide-blocks",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentyone": {
+                "slug": "twentytwentyone",
+                "themeName": "Twenty Twenty-One",
+                "version": "1.7",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyone\/",
+                "parentTheme": false,
+                "template": "twentytwentyone",
+                "stylesheet": "twentytwentyone",
+                "description": "Twenty Twenty-One is a blank canvas for your ideas and it makes the block editor your best brush. With new block patterns, which allow you to create a beautiful layout in a matter of seconds, this theme\u2019s soft colors and eye-catching \u2014 yet timeless \u2014 design will let your work shine. Take it for a spin! See how Twenty Twenty-One elevates your portfolio, business website, or personal blog.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "accessibility-ready",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "footer-widgets",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Full Site Editing features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "accessibility-ready"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": ""
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "lesgensquisement_4839d1331ecb95816694_20230929154812_installer-backup.php",
+    "package_name": "lesgensquisement_4839d1331ecb95816694_20230929154812_archive.zip",
+    "package_hash": "4839d13-29154812",
+    "package_notes": ""
+}

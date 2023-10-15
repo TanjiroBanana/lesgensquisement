@@ -1,0 +1,39 @@
+/*--------------------------------------------------------------
+# Customize
+--------------------------------------------------------------*/
+.kokoro-pro-description span:before {
+    content: "+";
+    color: #d55;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+}
+.kokoro-pro-description span{
+	display: block;
+    margin-top: 5px;
+}
+.kokoro-pro-description .kokoro-buy-button{
+	background-color: #82b440;
+    box-shadow: 0 2px 0 #6f9a37;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: block;
+    text-align: center;
+    width: 80%;
+}
+#accordion-section-kokoro_pro .accordion-section-title{
+    background-color: #8dc740;
+    color: #fff;
+}
+#accordion-section-kokoro_pro .accordion-section-title:after{
+	color: #fff;
+}
+#accordion-section-kokoro_pro .accordion-section-title:hover{
+	background-color: #a1da55 !important;
+	color: #fff !important;
+}
